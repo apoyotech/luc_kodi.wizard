@@ -7,7 +7,7 @@ CACHETEXT      = 'Yes'
 CACHEAGE       = 30
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
 ADDONTITLE     = '[COLOR lime]-[B]luc_kodi.wizard[/B]-[/COLOR]'
-BUILDERNAME    = 'GUI Wiz'
+BUILDERNAME    = 'luc_kodi'
 #########################Make sure to change the repo to yours!!!!
 EXCLUDES       = [ADDON_ID, 'roms', 'My_Builds', 'backupdir', 'script.module.kodi-six', 'script.module.six']
 BUILDFILE      = 'https://'
@@ -61,7 +61,7 @@ DES_T_COLOR = 'cornflowerblue'
 DESCOLOR = 'cyan'
 
 #Wizard title name and verion color
-WIZTITLE = 'GUI Wizard'
+WIZTITLE = 'luc_kodi.wizard'
 WIZTITLE_COLOR = 'plum'
 VERTITLE_COLOR = 'peru'
 VER_NUMBER_COLOR = 'maroon'
@@ -156,7 +156,7 @@ NOTIFICATION   = 'http://'
 HEADERTYPE     = 'Text'
 # Font size of header
 FONTHEADER     = 'Font13'
-HEADERMESSAGE  = 'GUI Wizard'
+HEADERMESSAGE  = 'luc_kodi'
 # url to image if using Image 424x180
 HEADERIMAGE    = ''
 # Font for Notification Window
