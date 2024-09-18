@@ -1,0 +1,25 @@
+<advancedsettings>
+    <video>
+        <allowmpeg4vaapi>true</allowmpeg4vaapi>
+        <checkdxvacompatibility>true</checkdxvacompatibility>
+        <defaultplayer>VideoPlayer</defaultplayer>
+        <fullscreenonmoviestart>true</fullscreenonmoviestart>
+        <enablehighqualityhwscalers>true</enablehighqualityhwscalers>
+        <dxvaallowhqscaling>false</dxvaallowhqscaling>
+    </video>
+    <network>
+        <disableipv6>true</disableipv6>
+        <curlretries>4</curlretries>
+		<disablehttp2>true</disablehttp2>
+    </network>
+    <cache>
+        <buffermode>2</buffermode>
+        <freememorycachepercent>5</freememorycachepercent>
+        <memorysize>369430400</memorysize>
+        <readfactor>30.0</readfactor>
+    </cache>
+	<fanartres>9999</fanartres>
+	<imageres>9999</imageres>
+	<splash>false</splash>
+	<loglevel>1</loglevel>
+</advancedsettings>
