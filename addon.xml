@@ -10,7 +10,7 @@
 	<!--<extension point="xbmc.service" library="service.py" />-->
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">luc_kodi.wizard it's a simple wizard for create and install builds and maintenance for open source kodi </summary>
-		<description lang="en_GB">luc_kodi.wizard </description>
+		<description lang="en_GB">luc_kodi</description>
 		<disclaimer lang="en_GB">This Addon contains no content</disclaimer>
 		<language>en</language>
 		<platform>all</platform>
