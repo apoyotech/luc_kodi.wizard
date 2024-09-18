@@ -6,7 +6,7 @@ import os, xbmcaddon
 CACHETEXT      = 'Yes'
 CACHEAGE       = 30
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
-ADDONTITLE     = '[COLOR lime]-[B]GUI Wizard[/B]-[/COLOR]'
+ADDONTITLE     = '[COLOR lime]-[B]luc_kodi.wizard[/B]-[/COLOR]'
 BUILDERNAME    = 'GUI Wiz'
 #########################Make sure to change the repo to yours!!!!
 EXCLUDES       = [ADDON_ID, 'roms', 'My_Builds', 'backupdir', 'script.module.kodi-six', 'script.module.six']
