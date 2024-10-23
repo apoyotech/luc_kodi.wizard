@@ -19,7 +19,7 @@
 	</extension>
 	<!--<extension point="xbmc.service" library="service.py" />-->
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">[COLOR red]luc_kodi.wizard by apoyotech[/COLOR]</summary>
+		<summary lang="en_GB">"[COLOR red]luc_kodi.wizard by apoyotech[/COLOR]"</summary>
 		<description lang="en_GB">This simple plugin.program.wizard it serves to create and install backups and maintenance in open source kodi</description>
 		<disclaimer lang="en_GB">This Addon contains no content</disclaimer>
 		<language>en</language>
