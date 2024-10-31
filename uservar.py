@@ -5,4 +5,4 @@ buildfile = 'http://CHANGEME'
 notify_url  = 'http://CHANGEME'
 
 '''#####-----Excludes-----#####'''
-excludes  = ['plugin.video.whatever']
+excludes  = ['plugin.program.luc_kodi.wizard']
