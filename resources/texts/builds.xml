@@ -1,12 +1,31 @@
-<builds>
+id="plugin.program.luc_kodi.wizard"
+version="1.0.0"
+zip="https://github.com/apoyotech/luc_kodi.wizard/tree/main"
 
-  <build>
-	<name></name>
-	<version></version>
-	<url></url>
-	<icon></icon>
-	<fanart></fanart>
-	<description></description>
-  </build>
-  
-</builds>
+name="Backup-Palantir(Arctic Fuse)"
+version="1.0"
+url="https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Palantir3.skin.Arctic.Fuse-KODI.21.zip/"
+minor="http://"
+gui="http://your.guisettings.url/"
+kodi="21.1"
+theme="http://your.themes.url"
+icon="http://"
+fanart="http://"
+preview="https://"
+adult="no"
+info="http://your.info.url"
+description="A disfrutar !"
+
+name="Backup-Palantir(Aeon Nox 5)"
+version="1.0"
+url="https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Palantir.skin.Aeon.Nox.5-KODI-21.1.zip/"
+minor="http://"
+gui="http://your.guisettings.url/"
+kodi="21.1"
+theme="http://your.themes.url"
+icon="http://"
+fanart="http://"
+preview="https://"
+adult="no"
+info="http://your.info.url"
+description="A  disfrutar !"
