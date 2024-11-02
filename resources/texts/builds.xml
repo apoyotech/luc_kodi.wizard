@@ -1,7 +1,9 @@
+<builds>
+
 id="plugin.program.luc_kodi.wizard"
 version="1.0.0"
 zip="https://github.com/apoyotech/luc_kodi.wizard/tree/main"
-
+<build>
 name="Backup-Palantir(Arctic Fuse)"
 version="1.0"
 url="https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Palantir3.skin.Arctic.Fuse-KODI.21.zip/"
