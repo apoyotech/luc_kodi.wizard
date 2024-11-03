@@ -268,7 +268,7 @@ if KODIADDONS in ADDONPATH:
 	
 
 if not os.path.exists(ADVANCED): writeAdvanced()
-
+             finally
 try:
 	mybuilds = xbmc.translatePath(MYBUILDS)
 	if not os.path.exists(mybuilds): xbmcvfs.mkdirs(mybuilds)
