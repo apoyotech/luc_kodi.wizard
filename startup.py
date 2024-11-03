@@ -263,12 +263,11 @@ if KODIADDONS in ADDONPATH:
 		wiz.removeFolder(newpath)
 	try:
 		wiz.copytree(ADDONPATH, newpath)
-	
-		pass
-	
-
-if not os.path.exists(ADVANCED): writeAdvanced()
-             finally
+	except Exception, e:		
+	   pass
+        wiz.forceUpdate(True)
+	if not os.path.exists(ADVANCED): writeAdvanced()
+             
 try:
 	mybuilds = xbmc.translatePath(MYBUILDS)
 	if not os.path.exists(mybuilds): xbmcvfs.mkdirs(mybuilds)
