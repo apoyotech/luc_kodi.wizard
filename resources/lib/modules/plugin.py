@@ -114,7 +114,7 @@ def router(paramstring):
         run()
     
     elif mode == 100:
-        if notify_url in ('http://CHANGEME', 'http://slamiousproject.com/wzrd/notify19.txt', ''):
+        if notification in ('http://'):
             xbmcgui.Dialog().ok(addon_name, 'No Notifications to Display')
             sys.exit()
         from resources.lib.GUIcontrol import notify
