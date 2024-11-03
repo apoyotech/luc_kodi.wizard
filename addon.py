@@ -1,9 +1,9 @@
 
-if __name__ == '__main__':
-  import sys
-  from resources.lib.modules import router
- _params = sys.argv[2][1:]
+import sys
+from resources.lib.modules import router
  
+if __name__=='__main__':
+router(sys.argv[2][1:])
 
 
 
