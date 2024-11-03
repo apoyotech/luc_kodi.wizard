@@ -265,7 +265,7 @@ if KODIADDONS in ADDONPATH:
 		wiz.copytree(ADDONPATH, newpath)
 	
 		pass
-	wiz.forceUpdate(True)
+	
 
 if not os.path.exists(ADVANCED): writeAdvanced()
 
