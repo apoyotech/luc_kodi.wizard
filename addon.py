@@ -8,7 +8,8 @@ if __name__ == '__main__':
     
     dispatcher = router.Router()
     dispatcher.dispatch(_handle, _params)
-  from resources.lib.modules.plugin import build_install
+  
+   from resources.lib.modules.plugin import build_install
 
 
 
