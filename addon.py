@@ -1,8 +1,14 @@
 
+if __name__ == '__main__':
+  import sys
+  from resources.libs.common import router
 
-
-import sys
-from resources.lib.modules.plugin import build_install
+    _handle = int(sys.argv[1])
+    _params = sys.argv[2][1:]
+    
+    dispatcher = router.Router()
+    dispatcher.dispatch(_handle, _params)
+  from resources.lib.modules.plugin import build_install
 
 
 
