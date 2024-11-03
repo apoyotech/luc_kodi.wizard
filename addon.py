@@ -6,8 +6,8 @@ if __name__ == '__main__':
     _handle = int(sys.argv[1])
     _params = sys.argv[2][1:]
     
-    dispatcher = router.Router()
-    dispatcher.dispatch(_handle, _params)
+    
+   
   
    from resources.lib.modules.plugin import build_install
 
