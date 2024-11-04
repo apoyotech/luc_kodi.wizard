@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR red][B]FC[/B][/COLOR]Wizard'
 BUILDERNAME = 'apoyotech'
 EXCLUDES = [ADDON_ID, 'repository.openwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://raw.githubusercontent.com/apoyotech/plugin.program.luc_kodi.wizard/main/build_info/builds.txt'
+BUILDFILE = 'https://raw.githubusercontent.com/apoyotech/plugin.program.luc_kodi.wizard/blob/main/build_info/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 3
