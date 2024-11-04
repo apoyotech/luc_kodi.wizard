@@ -17,7 +17,7 @@
 	<extension point="xbmc.python.pluginsource" library="addon.py">
 	<provides>executable</provides>
 	</extension>
-	<extension point="xbmc.service" library="service.py" start="startup" />
+	<extension point="xbmc.service" library="service.py"  />
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">[COLOR dodgerblue]luc_kodi.wizard by apoyotech[/COLOR]</summary>
 		<description lang="en_GB">This simple plugin.program.wizard it serves to create and install backups and maintenance in open source kodi</description>
