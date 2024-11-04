@@ -98,7 +98,7 @@ AUTOINSTALL = 'Yes'
 # Addon ID for the repository
 REPOID = 'http://'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://raw.githubusercontent.com/apoyotech/plugin.program.luc_kodi.wizard/main/addon.xml'
+REPOADDONXML = 'https://raw.githubusercontent.com/apoyotech/plugin.program.luc_kodi.wizard/blob/main/addon.xml'
 # Url to folder zip is located in
 REPOZIPURL = 'https://a4k-openproject.github.io/a4kSubtitles/packages'
 #########################################################
