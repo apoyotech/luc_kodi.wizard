@@ -14,10 +14,10 @@ ART = os.path.join(PATH, 'resources', 'media')
 #        User Edit Variables                            #
 #########################################################
 ADDONTITLE = '[COLOR red][B]FC[/B][/COLOR]Wizard'
-BUILDERNAME = 'FCWizard'
+BUILDERNAME = 'apoyotech'
 EXCLUDES = [ADDON_ID, 'repository.openwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://raw.githubusercontent.com/Serph91P/plugin.program.fcwizard/master/build_info/builds.txt'
+BUILDFILE = 'https://raw.githubusercontent.com/apoyotech/plugin.program.luc_kodi.wizard/main/build_info/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 3
@@ -77,7 +77,7 @@ THEME5 = u'[COLOR {color1}]Current Theme:[/COLOR] [COLOR {color2}]{{}}[/COLOR]'.
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
 HIDECONTACT = 'No'
 # You can add \n to do line breaks
-CONTACT = 'Thank you for choosing OpenWizard.\n\nContact us on Github at https://github.com/Serph91P/plugin.program.fcwizard/'
+CONTACT = 'Thank you for choosing OpenWizard.\n\nContact us on Github at https://github.com/apoyotech/plugin.program.luc_kodi.wizard/'
 # Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON = os.path.join(ART, 'qricon.png')
 CONTACTFANART = 'http://'
@@ -96,9 +96,9 @@ AUTOUPDATE = 'Yes'
 # Enable Auto Install 'Yes' or 'No'
 AUTOINSTALL = 'Yes'
 # Addon ID for the repository
-REPOID = 'repository.fcwizard'
+REPOID = 'http://'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://raw.githubusercontent.com/Serph91P/plugin.program.fcwizard/master/addon.xml'
+REPOADDONXML = 'https://raw.githubusercontent.com/apoyotech/plugin.program.luc_kodi.wizard/main/addon.xml'
 # Url to folder zip is located in
 REPOZIPURL = 'https://a4k-openproject.github.io/a4kSubtitles/packages'
 #########################################################
