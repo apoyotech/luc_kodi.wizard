@@ -21,17 +21,17 @@
 <build name lang=en_EN>[COLOR red]Backup-Palantir3-Arctic Zephyr Resurrection 2[/COLOR]>
 <version lang=en_EN>v.3</version>
 <url>https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Palantir3.skin.Arctic.Zephyr.Resurrection.2-KODI-21.1.v.3.zip</url>
-minor="http://"
-gui="http://"
-kodi="21"
-theme="http://"
-icon="http://"
-fanart="http://"
-preview="https://"
-adult="no"
-info="http://"
-description="A disfrutar !"
-
-
+<minor></minor>
+<gui></gui>
+<kodi>21</kodi>
+<theme></theme>
+<icon></icon>
+<fanart></fanart>
+<preview></preview>
+<adult lang=en_EN>no</adult>
+<info></info>
+<description lang=es_ES>A disfrutar !</description>
 </build>
+
+
 </builds>
