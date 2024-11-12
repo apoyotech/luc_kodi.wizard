@@ -1,9 +1,9 @@
 <builds>
 
   <build>
-	<name>My builds</name>
-	<version></version>
-	<url>https://raw.githubusercontent.com/apoyotech/luc_backups.kodi-21/refs/heads/main/index.html</url>
+	<name>build1</name>
+	<version>1.0.0</version>
+	<url>https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Palantir.skin.Estuary-Palantir-KODI.21.1.zip</url>
 	<icon></icon>
 	<fanart></fanart>
 	<description> A disfrutar !</description>
