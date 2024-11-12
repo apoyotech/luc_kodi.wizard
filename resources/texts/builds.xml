@@ -1,12 +1,12 @@
 <builds>
 
   <build>
-	<name></name>
+	<name>My builds</name>
 	<version></version>
-	<url></url>
+	<url>https://raw.githubusercontent.com/apoyotech/luc_backups.kodi-21/refs/heads/main/index.html</url>
 	<icon></icon>
 	<fanart></fanart>
-	<description></description>
+	<description> A disfrutar !</description>
   </build>
   
 </builds>
