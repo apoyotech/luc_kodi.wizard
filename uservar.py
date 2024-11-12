@@ -1,5 +1,5 @@
 '''#####-----Build File-----#####'''
-buildfile = 'https://raw.githubusercontent.com/apoyotech/luc_kodi.wizard/refs/heads/main/build_info/builds.xml'
+buildfile = 'https://raw.githubusercontent.com/apoyotech/luc_kodi.wizard/refs/heads/main/resources/texts/builds.xml'
 
 '''#####-----Notifications File-----#####'''
 notify_url  = 'http://CHANGEME'
