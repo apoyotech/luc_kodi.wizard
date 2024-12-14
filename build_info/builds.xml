@@ -1,37 +1,32 @@
 <builds>
 
-
-<build>
-<name>Backup-sub.RO-Estuary Mod v.2</name>
-<version lang=en_En>v.3</version>
-<url>https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Premium.Real.Debrid-sub.RO.skin.Estuary.mod.v.2-KODI.21.1.v.3.zip</url>
-<minor></minor>
-<gui></gui>
-<kodi>21</kodi>
-<theme></theme>
-<icon></icon>
-<fanart></fanart>
-<preview></preview>
-<adult lang=en_EN>no</adult>
-<info></info>
-<description lang=es_ES>A disfrutar !</description>
+ <build>
+  <name>Backup Premium  skin Arctic Fuse 2</name>
+  <version>v.2</version>
+  <url>https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Add-ons.Real.Debrid-sub.RO.skin.Arctic.Fuse.2-KODI.21.1.v.2.zip</url>
+  <icon></icon>
+  <fanart></fanart>
+  <description>Just work with a Debrid subscrition</description>
  </build>
-
+  
 <build>
-<name>Backup-Palantir3-Arctic Zephyr Resurrection 2</name>
-<version lang=en_EN>v.3</version>
-<url>https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Palantir3.skin.Arctic.Zephyr.Resurrection.2-KODI-21.1.v.3.zip</url>
-<minor></minor>
-<gui></gui>
-<kodi>21</kodi>
-<theme></theme>
-<icon></icon>
-<fanart></fanart>
-<preview></preview>
-<adult lang=en_EN>no</adult>
-<info></info>
-<description lang=es_ES>A disfrutar !</description>
+  <name>Backup Premium  skin Fentastic</name>
+  <version></version>
+  <url>https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Fen.light-sub.RO.skin.Fentastic.KODI-21.1.zip</url>
+  <icon></icon>
+  <fanart></fanart>
+  <description>Just  work with a Debrid subscrition</description>
  </build>
+  
+</builds>
+
+
+
+
+
+
+
+
 
 
 </builds>
