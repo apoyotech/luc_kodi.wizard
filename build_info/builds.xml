@@ -1,21 +1,21 @@
 <builds>
 
  <build>
-  <name></name>
-  <version></version>
-  <url></url>
+  <name>Backup Premium skin AeonNox Silvo</name>
+  <version>2.0.0</version>
+  <url>https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Premium-sub.RO.skin.AeonNox.Silvo-KODI.21.1.v.2.zip</url>
   <icon></icon>
   <fanart></fanart>
-  <description></description>
+  <description> Work with a Debrid subscrition only</description>
  </build>
   
 <build>
-  <name></name>
-  <version></version>
-  <url></url>
+  <name>Backup Premium skin Estuary Mod v2</name>
+  <version>4.0.0</version>
+  <url>https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Premium-sub.RO.skin.Estuary.mod.v2-KODI.21.1.v.4.zip</url>
   <icon></icon>
   <fanart></fanart>
-  <description></description>
+  <description>Work with a Debrid subscrition only</description>
  </build>
   
 </builds>
