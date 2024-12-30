@@ -126,6 +126,20 @@
           <description>Work with Debrid subscrition only</description>
   </build>
 
+  <build>
+           <name>Backup Premium skin Altus</name>
+           <version>2.0</version>
+           <url>https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Premium-sub.Ro.skin.Altus-KODI.21.1.v.2.zip</url>
+           <icon>https://apoyotech.github.io/luc_backups.kodi-21/pictures/Screenshot_20241230_113231_Kodi.jpg</icon>
+           <fanart>https://apoyotech.github.io/luc_backups.kodi-21/pictures/Screenshot_20241230_113231_Kodi.jpg</fanart>
+           <description>Work with Debrid subscrition only</description>
+
+  </build>
+
+
+
+
+
 
 
 </builds>
