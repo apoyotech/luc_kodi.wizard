@@ -145,17 +145,14 @@
             <description>Work with Debrid subscrition only</description>
   </build>
 
-
-
-
-
-
-
-
-
-
-
-
+  <build>
+             <name>Backup Premium skin mp3 HD mod</name>
+             <version>2.0</version>
+             <url>https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Premium-sub.RO.skin.mp3.HD.mod-KODI.21.2.v.2.zip</url>
+             <icon>https://apoyotech.github.io/luc_backups.kodi-21/pictures/photo_2025-01-30_21-49-12.jpg</icon>
+             <fanart>https://apoyotech.github.io/luc_backups.kodi-21/pictures/photo_2025-01-30_21-49-12.jpg</fanart>
+             <description>Work with Debrid subscrition only</description>
+  </build>
 
 
 
