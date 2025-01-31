@@ -109,9 +109,9 @@
   </build>
 
   <build>
-          <name>Backup Premium skin Reloaded</name> 
-          <version>1.0</version>
-          <url>https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup.Premium.RO.Reloaded.Kodi.21.zip</url>
+          <name>Backup Premium skin Arctic Zephyr Reloaded</name> 
+          <version>2.0</version>
+          <url>https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Premium-sub.ro.skin.Arctic.Zephyr.Reloaded-KODI.21.2.v.2.zip</url>
           <icon>https://apoyotech.github.io/luc_backups.kodi-21/pictures/Screenshot_20241114_011912_Kodi.jpg</icon>
           <fanart>https://apoyotech.github.io/luc_backups.kodi-21/pictures/Screenshot_20241114_011912_Kodi.jpg</fanart>
           <description>Work with Debrid subscription only</description>
