@@ -154,6 +154,14 @@
              <description>Work with Debrid subscription only</description>
   </build>
 
+  <build>
+             <name>Backup Premium skin Arctic Zephyr Resurrection ligth view</name>
+             <version>1.0</version>
+             <url>https://github.com/apoyotech/luc_backups.kodi-21/releases/download/v.1.0.0/Backup-Premium-sub.RO.skin.Arctic.Zephyr.Resurrection-ligth.view-KODI.21.2.v.1.zip</url>
+             <icon>https://apoyotech.github.io/luc_backups.kodi-21/pictures/Screenshot_20250212_101124_Kodi.jpg</icon>
+             <fanart>https://apoyotech.github.io/luc_backups.kodi-21/pictures/Screenshot_20250212_101124_Kodi.jpg</fanart>
+             <description>Work with Debrid subscription only</description>
+  </build>
 
 
 
