@@ -1,7 +1,7 @@
 <builds>
 
  <build>
-  <name>Backup-Debrid-[COLOR yellow]sub.Ro[/COLOR](skin AeonNox Silvo-KODI 21.1)</name>
+  <name>Backup-Debrid-sub.Ro(skin AeonNox Silvo-KODI 21.1)</name>
   <version>2.0</version>
   <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-Premium-sub.RO.skin.AeonNox.Silvo-KODI.21.1.v.2.zip</url>
   <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241208_224511_Kodi.jpg</icon>
@@ -10,7 +10,7 @@
  </build>
   
 <build>
-  <name>Backup-Debrid-[COLOR yellow]sub.RO[/COLOR](skin Estuary Mod v2-KODI 21.1)</name>
+  <name>Backup-Debrid-sub.RO(skin Estuary Mod v2-KODI 21.1)</name>
   <version>4.0</version>
   <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-Premium-sub.RO.skin.Estuary.mod.v2-KODI.21.1.v.4.zip</url>
   <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_122856_Kodi.jpg</icon>
