@@ -118,11 +118,11 @@
   </build>
 
   <build>
-          <name>Backup-Debrid-sub.RO(skin Titan Bingie mod-KODI 21.1)</name> 
-          <version>4.0</version>
-          <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup.Premium.sub.RO.skin.Titan.Bingie.Mod.KODI.21.1.v.4.zip</url>
-          <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_124735_Kodi.jpg</icon>
-          <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_124735_Kodi.jpg</fanart>
+          <name>Backup-Debrid-sub.RO(skin Titan Bingie mod-KODI 21.2)</name> 
+          <version>5.0</version>
+          <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-Debrid-sub.RO.skin.Titan.Bingie.mod-KODI.21.2.v.5.zip</url>
+          <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Captura%20de%20pantalla%202025-02-16%20a%20las%2021.59.31.png</icon>
+          <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Captura%20de%20pantalla%202025-02-16%20a%20las%2021.59.31.png</fanart>
           <description>Work with Debrid subscription only</description>
   </build>
 
