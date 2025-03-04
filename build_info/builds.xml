@@ -20,11 +20,12 @@
  </build>
   
 <build>
-    <name>Backup-Debrid-sub.RO(skin Arctic Fuse 2-KODI 21.1)</name>
-    <version>2.0</version>
-    <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-Add-ons.Real.Debrid-sub.RO.skin.Arctic.Fuse.2-KODI.21.1.v.2.zip</url>
-    <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_134500_Kodi.jpg</icon>
-    <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_134500_Kodi.jpg</fanart>
+    <name>Backup-Debrid-sub.RO(skin Arctic Fuse 2-KODI 21.2)</name>
+    <kodi>k21</kodi>
+    <version>3.0</version>
+    <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-Debrid-sub.RO.skin.Arctic.Fuse.2-KODI.21.2.v.3.zip</url>
+    <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250304_120402_Kodi.jpg</icon>
+    <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250304_120402_Kodi.jpg</fanart>
     <description>Work with  Debrid subscription only</description>
 </build>
 
