@@ -2,7 +2,7 @@
 <addon id="plugin.program.luc_kodi.wizard" name="luc_kodi.wizard" version="2.0.3" provider-name="[COLOR gold]apoyotech[/COLOR]">
 
 <requires>
-	<import addon="xbmc.python" version="3.0.0"/>
+	<import addon="xbmc.python" version="3.0.1"/>
 	<import addon="script.module.requests" version="2.31.0" />
 	<import addon="script.module.certifi" version="2023.5.7" />
 	<import addon="script.module.chardet" version="5.1.0" />
