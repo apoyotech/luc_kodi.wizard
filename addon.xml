@@ -24,7 +24,7 @@
 <extension point="xbmc.addon.metadata">
 <summary lang="en_GB">[COLOR gold]This plugin.program.wizard it is inspired by plugin.program.simplewizard and is used to create an install builds and maintenance in  the open source KODI application[/COLOR]</summary>
 <description lang="en_GB">KODI Wizard</description>
-<disclaimer lang="en_GB">[COLOR red]This plugin.program.wizard contains no content[COLOR]</disclaimer>
+<disclaimer lang="en_GB">[COLOR red]This plugin.program.wizard contains no content[/COLOR]</disclaimer>
 <language>en</language>
 <plataform>all</plataform>
 <license>GPL-3.0-or-later</license>
