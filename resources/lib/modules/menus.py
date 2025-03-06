@@ -17,7 +17,7 @@ COLOR2 = colors.color_text2
 def main_menu():
     xbmcplugin.setPluginCategory(HANDLE, COLOR1('Main Menu'))
     
-    add_dir(COLOR1(f'***Welcome to {addon_name}***'), '', '', addon_icon, addon_fanart, COLOR1(f'***Welcome to {addon_name}***'), isFolder=False) 
+    add_dir(COLOR1(f'<><> [B]Welcome to {addon_name}[/B] <><>'), '', '', addon_icon, addon_fanart, COLOR1(f'Welcome to {addon_name}'), isFolder=False) 
     
     add_dir(COLOR2(local_string(30010)), '', 1, addon_icon, addon_fanart, COLOR2(local_string(30001)), isFolder=True)  # Build Menu
     
