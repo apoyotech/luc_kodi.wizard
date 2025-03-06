@@ -63,7 +63,7 @@ def build_menu():
 
 def submenu_maintenance():
     xbmcplugin.setPluginCategory(HANDLE, COLOR1(local_string(30022)))  # Maintenance
-    add_dir(COLOR1('***Maintenance***'),'','',addon_icon,addon_fanart, COLOR1('***Maintenance***'),isFolder=False)
+    add_dir(COLOR1('<><> [B]Maintenance[/B] <><>'),'','',addon_icon,addon_fanart, COLOR1('Maintenance'),isFolder=False)
     add_dir(COLOR2(local_string(30023)),'',6,addon_icon,addon_fanart,COLOR1(local_string(30005)),isFolder=False)  # Clear Packages
     add_dir(COLOR2(local_string(30024)),'',7,addon_icon,addon_fanart,COLOR2(local_string(30008)),isFolder=False)  # Clear Thumbnails
     add_dir(COLOR2(local_string(30012)), '', 4, addon_icon, addon_fanart, COLOR2(local_string(30003)), isFolder=False)  # Fresh Start
@@ -77,7 +77,7 @@ def submenu_maintenance():
 
 def backup_restore():
     xbmcplugin.setPluginCategory(HANDLE, COLOR1('Backup/Restore'))
-    add_dir(COLOR1('***Backup/Restore***'),'','',addon_icon,addon_fanart, COLOR1('Backup/Restore'), isFolder=False)
+    add_dir(COLOR1('<><> [B]Backup/Restore[/B]<><> '),'','',addon_icon,addon_fanart, COLOR1('Backup/Restore'), isFolder=False)
     add_dir(COLOR2('Backup Build'),'',13,addon_icon,addon_fanart, COLOR2('Backup Build'), isFolder=False)  # Backup Build
     add_dir(COLOR2('Restore Backup'),'',14, addon_icon,addon_fanart, COLOR2('Restore Backup'))  # Restore Backup
     add_dir(COLOR2('Change Backups Folder Location'),'',16,addon_icon,addon_fanart, COLOR2('Change the location where backups will be stored and accessed.'), isFolder=False)  # Backup Location
