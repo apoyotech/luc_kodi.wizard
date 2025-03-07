@@ -84,6 +84,8 @@ def backup_restore():
     add_dir(COLOR2('Reset Backups Folder Location'),'',17,addon_icon,addon_fanart, COLOR2('Set the backup location to its default.'), isFolder=False)  # Reset Backup Location
 
 def restore_gui_skin():
+    xbmcplugin.setPluginCategory(HANDLE, COLOR1('Restore GUI/Skin Settings')) 
+    add_dir(COLOR1('<><> [B]Restore GUI/Skin Settings[/B]<><> '),'','',addon_icon,addon_fanart, COLOR1('Restore GUI/Skin Settings'), isFolder=False)
     add_dir(COLOR2('Restore GUI Settings'),'',20,addon_icon,addon_fanart,COLOR2('Restore GUI Settings'), isFolder=False)  
     add_dir(COLOR2('Restore Skin Settings'),'',21, addon_icon,addon_fanart, COLOR2('Restore Skin Settings'), isFolder=False)
 
