@@ -1,10 +1,7 @@
 <builds>
 
- <name>[COLOR darkgoldenrod]Backups Debrid[/COLOR]</name>
- 
- 
- 
- 
+<section>
+<name>Backups Debrid</name>
  
  <build>
   <name>Backup-Debrid-sub.Ro(skin AeonNox Silvo-KODI 21.1)</name>
@@ -185,7 +182,7 @@
 
 
 
-
+</section>
 </builds>
 
 
