@@ -1,5 +1,5 @@
 '''#####-----Build File-----#####'''
-buildfile = '<iframe src="https://archive.org/embed/builds_202503" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>'
+buildfile = 'https://ia601503.us.archive.org/0/items/builds_202503/builds.xml'
 
 '''#####-----Notifications File-----#####'''
 notify_url  = 'http://CHANGEME'
