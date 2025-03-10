@@ -194,6 +194,21 @@
   </build>
   </section>
   
+<section name="Backups-FREE">
+<build>
+          <name>Backup-just FREE-sub.POR(skin Arctic Fuse 2-KODI 21.2)</name>
+          <version>4.0</version>
+          <kodi>K21</kodi>
+          <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-just.FREE-sub.POR.skin.Arctic.Fuse.2-KODI.21.2.v.4.zip</url>
+          <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250310_183708_Kodi.jpg</icon>
+          <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250310_183708_Kodi.jpg</fanart>
+          <description>This backup no need a Debrid subscription</description>
+</build>
+</section>
+
+
+
+
 
 
 
