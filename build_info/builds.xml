@@ -192,10 +192,10 @@
              <description>Work with Debrid subscription only</description>
   </build>
 
- ==============================================================================================================================================================
+ 
 
 <build>
-          <name>Backup-just FREE-sub.POR(skin Arctic Fuse 2-KODI 21.2)</name>
+          <name>[COLOR #FFA500][I]Backup-just FREE-sub.POR(skin Arctic Fuse 2-KODI 21.2)[/I][/COLOR]</name>
           <version>4.0</version>
           <kodi>K21</kodi>
           <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-just.FREE-sub.POR.skin.Arctic.Fuse.2-KODI.21.2.v.4.zip</url>
