@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <builds>
 
-<section name="Backups-Debrid">
 <build>
   <name>Backup-Debrid-sub.Ro(skin AeonNox Silvo-KODI 21.1)</name>
   <version>2.0</version>
@@ -192,9 +191,9 @@
              <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250213_113912_Kodi.jpg</fanart>
              <description>Work with Debrid subscription only</description>
   </build>
-  </section>
-  ==============================================================================================================================================================
-<section name="Backups-FREE">
+
+ ==============================================================================================================================================================
+
 <build>
           <name>Backup-just FREE-sub.POR(skin Arctic Fuse 2-KODI 21.2)</name>
           <version>4.0</version>
@@ -204,7 +203,7 @@
           <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250310_183708_Kodi.jpg</fanart>
           <description>This backup no need a Debrid subscription</description>
 </build>
-</section>
+
 
 
 
