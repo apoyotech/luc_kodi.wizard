@@ -1,12 +1,6 @@
 <builds>
 
-<section>
-<name>Backups Debrid</name>
-<version>KODI 21</version>
-</section>
- 
- 
- <build>
+<build>
   <name>Backup-Debrid-sub.Ro(skin AeonNox Silvo-KODI 21.1)</name>
   <version>2.0</version>
   <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-Premium-sub.RO.skin.AeonNox.Silvo-KODI.21.1.v.2.zip</url>
@@ -182,7 +176,7 @@
 
 
 <section>
-<name>Backups Free</name>
+<name>---Backups Free---</name>
 <version>KODI 21</version>
 </secion>
 
