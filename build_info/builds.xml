@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <builds>
-
+<build category="Backups Debrid">
 <build>
   <name>Backup-Debrid-sub.Ro(skin AeonNox Silvo-KODI 21.1)</name>
   <version>2.0</version>
