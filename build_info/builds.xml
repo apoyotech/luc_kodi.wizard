@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <builds>
 
 <build>
@@ -176,8 +177,8 @@
 
 
 <section>
-<name>---Backups Free---</name>
-<version>(KODI 21)</version>
+<name>[COLOR red]&gtBackups Free&alt[/COLOR]</name>
+<version>KODI 21</version>
 </secion>
 
 
