@@ -1,5 +1,5 @@
 '''#####-----Build File-----#####'''
-buildfile = 'https://mia.nl.tab.digital/s/GEw5LC8AegKPspx/download/builds.xml'
+buildfile = 'https://mia.nl.tab.digital/s/bsarGT9LT45BerT/download/builds.xml'
 
 '''#####-----Videos File-----#####'''
 videos_url = 'http://CHANGEME'
