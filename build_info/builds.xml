@@ -23,8 +23,8 @@
   
 <build>
     <name>Backup-Debrid-sub.RO(skin Arctic Fuse 2-KODI 21.2)</name>
-    <kodi>K21</kodi>
     <version>3.0</version>
+    <kodi>K21</kodi>
     <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-Debrid-sub.RO.skin.Arctic.Fuse.2-KODI.21.2.v.3.zip</url>
     <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250304_120402_Kodi.jpg</icon>
     <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250304_120402_Kodi.jpg</fanart>
