@@ -2,12 +2,12 @@
 <builds>
 
 <build>
-  <name>Debrid-sub.Ro(skin AeonNox Silvo-KODI 21.1)</name>
-  <version>2.0</version>
+  <name>Debrid-sub.Ro(skin AeonNox Silvo-KODI 21.2)</name>
+  <version>3.0</version>
   <kodi>K21</kodi>
-  <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-Premium-sub.RO.skin.AeonNox.Silvo-KODI.21.1.v.2.zip</url>
-  <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241208_224511_Kodi.jpg</icon>
-  <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241208_224511_Kodi.jpg</fanart>
+  <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Debrid-sub.RO.skin.AeonNox.Silvo-KODI.21.2.v.3.zip</url>
+  <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250319_103338_Kodi.jpg</icon>
+  <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250319_103338_Kodi.jpg</fanart>
   <description> Work with  Debrid subscription only</description>
  </build>
   
@@ -192,11 +192,22 @@
              <description>Work with Debrid subscription only</description>
   </build>
 
- 
-
-<build>
+  <build> 
+             <name>Debrid-sub.RO(skin Grid-KODI 21.2)</name>
+             <version>1.0</version>
+             <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Debrid-sub.RO.skin.Grid-KODI.21.2.zip</url>  
+             <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250319_111148_Kodi.jpg</icon> 
+             <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250319_111148_Kodi.jpg</fanart>  
+             <description>Work with Debrid subscription only</description> 
+  </build>  
+  
+  
+  
+  
+  
+  <build>
           <name>[COLOR snow]FREE-sub.POR(skin Arctic Fuse 2-KODI 21.2)[/COLOR]</name>
-          <version>[COLOR snow]4.0[/COLOR]</version>
+          <version>4.0</version>
           <kodi>K21</kodi>
           <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-just.FREE-sub.POR.skin.Arctic.Fuse.2-KODI.21.2.v.4.zip</url>
           <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250310_183708_Kodi.jpg</icon>
@@ -206,7 +217,7 @@
 
 <build>
           <name>[COLOR snow]FREE-sub.RO(skin Arctic Fuse 2-KODI 21.2)[/COLOR]</name>
-          <version>[COLOR snow]4.0[/COLOR]</version>
+          <version>4.0</version>
           <kodi>K21</kodi>
           <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-just.FREE-sub.RO.skin.Arctic.Fuse.2-KODI.21.2.v.4.zip</url>
           <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250311_105007_Kodi.jpg</icon>
@@ -216,7 +227,7 @@
 
 <build>
           <name>[COLOR snow]Torrents-sub.RO(skin Fentastic-KODI 21.2)[/COLOR]</name> 
-          <version>[COLOR snow]1.0[/COLOR]</version>
+          <version>1.0</version>
           <kodi>K21</kodi>
           <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-just.torrents-sub.RO.skin.Fentastic-.KODI.21.2.zip</url>
           <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250312_003756_Kodi.jpg</icon>
@@ -226,7 +237,7 @@
 
 <build>
           <name>[COLOR snow]Torrents-sub.POR(skin Fentastic-KODI 21.2)[/COLOR]</name>
-          <version>[COLOR snow]1.0[/COLOR]</version>
+          <version>1.0</version>
           <kodi>K21</kodi>
           <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-just.torrents-sub.POR.skin.Fentastic-KODI.21.2.zip</url>
           <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250312_012932_Kodi.jpg</icon>
