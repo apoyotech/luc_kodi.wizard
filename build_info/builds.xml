@@ -195,6 +195,7 @@
   <build> 
              <name>Debrid-sub.RO(skin Grid-KODI 21.2)</name>
              <version>1.0</version>
+             <kodi>K21</kodi>     
              <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Debrid-sub.RO.skin.Grid-KODI.21.2.zip</url>  
              <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250319_111148_Kodi.jpg</icon> 
              <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20250319_111148_Kodi.jpg</fanart>  
