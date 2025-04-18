@@ -45,9 +45,9 @@
         <name>Palantir(skin Arctic Fuse 2-KODI 21.1)</name>
         <version>1.0</version>
         <kodi>K21</kodi>
-        <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-Palantir.skin.Arctic.Fuse.2-KODI.21.1.v.1.zip</url>
-        <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_162631_Kodi.jpg</icon>
-        <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_162631_Kodi.jpg</fanart>
+        <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Backup-Palantir.skin.Arctic.Fuse.2-KODI.21.1.v.1.zip</url>
+        <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_162631_Kodi.jpg</icon>
+        <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_162631_Kodi.jpg</fanart>
         <description>Work with Debrid subscription only</description>
 </build>
 
@@ -55,9 +55,9 @@
         <name>Palantir(skin Titan Bingie mod KODI 21.1)</name>
         <version>4.0</version>
         <kodi>K21</kodi>
-        <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-Palntir3.skin.Titan.Bingie.Mod-KODI.21.1.v.4.zip</url>
-        <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_004829_Kodi.jpg</icon>
-        <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_004829_Kodi.jpg</fanart>
+        <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Backup-Palntir3.skin.Titan.Bingie.Mod-KODI.21.1.v.4.zip</url>
+        <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_004829_Kodi.jpg</icon>
+        <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_004829_Kodi.jpg</fanart>
         <description>Work with Debrid subscription only</description>
 </build>
 
@@ -65,9 +65,9 @@
          <name>Debrid-sub.ES(skin Arctic Horizon 2-KODI 21.1)</name>
          <version>2.0</version>
          <kodi>K21</kodi>
-         <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-Premium-Real.Debrid-sub.ES.skin.Arctic.Horizon.2-KODI-21.1.v.2.zip</url>
-         <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_112654_Kodi.jpg</icon>
-         <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_112654_Kodi.jpg</fanart>
+         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Backup-Premium-Real.Debrid-sub.ES.skin.Arctic.Horizon.2-KODI-21.1.v.2.zip</url>
+         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_112654_Kodi.jpg</icon>
+         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_112654_Kodi.jpg</fanart>
          <description>Work with Debrid subscription only</description>
  </build>
 
@@ -75,9 +75,9 @@
           <name>Debrid-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.1)</name>
           <version>3.0</version>
           <kodi>K21</kodi>
-          <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-Premium-sub.RO.skin.Arctic.Zephyr.Resurrection-KODI-21.1.v.3.zip</url>
-          <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_120207_Kodi.jpg</icon>
-          <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_120207_Kodi.jpg</fanart>
+          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Backup-Premium-sub.RO.skin.Arctic.Zephyr.Resurrection-KODI-21.1.v.3.zip</url>
+          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_120207_Kodi.jpg</icon>
+          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_120207_Kodi.jpg</fanart>
           <description>Work with Debrid subscription only</description>
  </build>
 
@@ -85,9 +85,9 @@
          <name>Debrid-sub.ES(skin Nimbus-KODI 21.1)</name>
          <version>1.0</version>  
          <kodi>K21</kodi>
-         <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-Premium.Real.Debrid.-sub.ES.skin.Nimbus-KODI.21.zip</url>
-         <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241113_235259_Kodi.jpg</icon>
-         <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241113_235259_Kodi.jpg</fanart>
+         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Backup-Premium.Real.Debrid.-sub.ES.skin.Nimbus-KODI.21.zip</url>
+         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241113_235259_Kodi.jpg</icon>
+         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241113_235259_Kodi.jpg</fanart>
          <description>Work with Debrid subscription only</description>
  </build>
 
@@ -95,9 +95,9 @@
          <name>Debrid-sub.RO(skin AeonNox 5-KODI 21.1)</name>
          <version>1.0</version>
          <kodi>K21</kodi>
-         <url>https://github.com/apoyotech/luc_backups.kodi/releases/download/v.1.0.0/Backup-Premium.Real.Debrid.sub.RO.skin.Aeon.Nox.5-KODI-21.1.zip</url>
-         <icon>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_152458_Kodi.jpg</icon>
-         <fanart>https://apoyotech.github.io/luc_backups.kodi/pictures/Screenshot_20241114_152458_Kodi.jpg</fanart>
+         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Backup-Premium.Real.Debrid.sub.RO.skin.Aeon.Nox.5-KODI-21.1.zip</url>
+         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_152458_Kodi.jpg</icon>
+         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_152458_Kodi.jpg</fanart>
          <description>Work with Debrid subscription only</description>
 </build>
 
