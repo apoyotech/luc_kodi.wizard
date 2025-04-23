@@ -9,7 +9,7 @@
 
        <style>
 html {
-    background: rgb(175, 175, 175);
+    background: rgb(229, 228, 226);
     color: #000000;
     font-family:'Open Sans', sans-serif;
     font-size: 16px;
@@ -49,48 +49,46 @@ h1 {
      
 }
         
-
  
-.button {
-  --color-1: #e5fb6a;
-  --color-2: #2bf46e;
-  --color-1-shadow: #e5fb6a23;
-  --color-2-shadow: #2bf46e23;
-  --color-1-shadow-focus: #e5fb6a67;
-  --color-2-shadow-focus: #2bf46e67;
-  cursor: pointer;
-  padding: 1rem 1.5rem;
-  border-radius: 0.75rem;
-  margin-top: 20px;
-  margin-bottom: 50px;  
-  width: 100%;  
+.card {
+  --bg: #e8e8e8;
+  --contrast: #e2e0e0;
+  --grey: #93a1a1;
+  position: relative;
+  padding: 9px;
+  background-color: var(--bg);
+  border-radius: 35px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.card-overlay {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: repeating-conic-gradient(var(--bg) 0.0000001%, var(--grey) 0.000104%) 60% 60%/600% 600%;
+  filter: opacity(10%) contrast(105%);
+}
+
+.card-inner {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  width: 100%;
   height: auto;
-  border: 0;
-  font-size: 1rem;
-  background-image: linear-gradient(
-    to right bottom,
-    var(--color-1) 0%,
-    var(--color-2) 100%
-  );
-  box-shadow:
-    -4px -4px 16px 8px var(--color-1-shadow),
-    4px 4px 16px 8px var(--color-2-shadow);
-  transition: all 0.3s cubic-bezier(0.6, 0.12, 0.39, 0.83);
+  background-color: var(--contrast);
+  border-radius: 30px;
+  /* Content style */
+  font-size: 20px;
+  font-weight: 900;
+  color: #000000;
+  text-align: center;
+  font-family: monospace;
 }
+ 
 
-.button:hover,
-.button:active,
-.button:focus,
-.button:focus-visible,
-.button:focus-within {
-  box-shadow:
-    -4px -4px 32px 4px var(--color-1-shadow-focus),
-    4px 4px 32px 4px var(--color-2-shadow-focus);
-}
-
-.button:hover {
-  filter: contrast(1.25);
-}
            
    </style>
 </head>
@@ -107,13 +105,16 @@ h1 {
 </h2>   
   
 
- 
-<button class="button">
+ <div class="card">
+   <div class="card-overlay"></div>
+    <div class="card-inner">
    Este ,plugin.program.wizard ,sirve ,para crear y instalar backups y varías tareas de mantenimiento, para, la aplicación open source kodi.
    Esta inspirado ,en el plugin.program.simplewizard ,con todo los créditos para ellos,de mi parte y se incorpora con un pequeño toque mio.
-</button>
-    
+     </div>
+ </div>   
 
+
+      
 <h4> 
            <a href="luc_kodi.wizard-2.0.7.zip"  class="wizard">luc_kodi.wizard-2.0.7.zip</a> 
 </h4> 
