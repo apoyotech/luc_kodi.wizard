@@ -153,12 +153,12 @@
   </build>
 
   <build>
-            <name>Debrid-sub.RO(skin Confluence Color-KODI 21.1)</name>
-            <version>2.0</version>
+            <name>Debrid-sub.RO(skin Confluence-KODI 21.2)</name>
+            <version>1.0</version>
             <kodi>K21</kodi>
-            <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Confluence.Color-KODI.21.1.v.2.zip</url>
-            <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250117_095750_Kodi.jpg</icon>
-            <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250117_095750_Kodi.jpg</fanart>
+            <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Confluence-KODI.21.2.zip</url>
+            <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250509_135839_Kodi.jpg</icon>
+            <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250509_135839_Kodi.jpg</fanart>
             <description>Work with Debrid subscription only</description>
   </build>
 
@@ -210,7 +210,7 @@
           <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Torrents-sub.RO.skin.Fentastic-KODI.21.2.v.2.zip</url>
           <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250417_230637_Kodi.jpg</icon>
           <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250417_230637_Kodi.jpg</fanart>
-          <description>This backup,no need a Debrid subscription</description>
+          <description>This backup no need a Debrid subscription</description>
 </build>
 
 <build>
@@ -220,7 +220,7 @@
          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just-Free-sub.RO.skin.Arctic.Zephyr.Resurrection-KODI.21.2.zip</url>
          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250430_110534_Kodi.jpg</icon>
          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250430_110534_Kodi.jpg</fanart>
-         <description>This backup,no need a Debrid subscription</description>
+         <description>This backup no need a Debrid subscription</description>
 </build>
 
 
