@@ -10,7 +10,6 @@
        <style>
 html {
     background: rgb(229, 228, 226);
-    color: #000000;
     font-family:'Open Sans', sans-serif;
     
     
@@ -52,54 +51,65 @@ h1 {
     background-clip: text;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-     
-}
-        
- 
-.card {
-  --bg: #e8e8e8;
-  --contrast: #e2e0e0;
-  --grey: #93a1a1;
-  position: relative;
-  padding: 9px;
-  background-color: var(--bg);
-  border-radius: 35px;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
 
-.card-overlay {
-  position: absolute;
-  inset: 0;
-  pointer-events: none;
-  background: repeating-conic-gradient(var(--bg) 0.0000001%, var(--grey) 0.000104%) 60% 60%/600% 600%;
-  filter: opacity(10%) contrast(105%);
-}
-
-.card-inner {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: run-in;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;
-  width: 100%;
-  height: auto;
-  background-color: var(--contrast);
-  border-radius: 25px;
-  font-family: monospace;
-  letter-spacing: -0.05em;
-  font-size: 21px;
-  font-weight: 500;
-  position: absolute;
-}
-  
-  h4 {         
+h4 {         
   font-family: monospace;
   letter-spacing: -0.05em;
   margin-top: 100px;          
   font-size: 21px;
   font-weight: 500;
 }   
+       
+      
+/* From Uiverse.io by 4uglos */ 
+.button {
+  position: relative;
+  text-decoration: none;
+  color: #fff;
+  background: linear-gradient(45deg, #0ce39a, #69007f, #fc0987);
+  padding: 14px 25px;
+  border-radius: 16px;
+  font-size: 1.25em;
+  cursor: pointer;
+  border: none;
+  width: 100%;
+  height: auto;
+}
+
+.button span {
+  position: relative;
+  z-index: 1;
+}
+
+.button::before {
+  content: "";
+  position: absolute;
+  inset: 2px;
+  background: #272727;
+  border-radius: 14px;
+  transition: 0.5s;
+}
+
+.button:hover::before {
+  opacity: 0.7;
+}
+
+.button::after {
+  content: "";
+  position: absolute;
+  inset: 0px;
+  background: linear-gradient(45deg, #0ce39a, #69007f, #fc0987);
+  border-radius: 9px;
+  transition: 0.5s;
+  opacity: 0;
+  filter: blur(20px);
+}
+
+.button:hover:after {
+  opacity: 1;
+}
+
        
        </style>
 </head>
@@ -115,15 +125,12 @@ h1 {
      <img  src="pictures/Imagen-3.jpg"  alt="Imagen3" loading="lazy">     
 </h2>   
   
-
- <div class="card">
-   <div class="card-overlay"></div>
-    <div class="card-inner">
+<button class="button"> 
+   <span>
    Este ,plugin.program.wizard ,sirve ,para crear y instalar backups y varías tareas de mantenimiento, para, la aplicación open source kodi.
    Esta inspirado ,en el plugin.program.simplewizard ,con todo los créditos para ellos,de mi parte y se incorpora con un pequeño toque mio.
-     </div>
- </div>   
-
+   </span>     
+</button>
 
       
 <h4> 
