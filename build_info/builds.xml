@@ -16,7 +16,7 @@
   <name>Debrid-sub.Ro(skin AeonNox Silvo-KODI 21.2)</name>
   <version>5.0</version>
   <kodi>K21</kodi>
-  <size>200MB</size>
+  <size>210MB</size>
   <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.AeonNox.Silvo-KODI.21.2.v.5.zip</url>
   <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250521_125023_Kodi.jpg</icon>
   <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250521_125023_Kodi.jpg</fanart>
@@ -47,12 +47,12 @@
 
 <build>
       <name>FEN ligth-sub.RO( skin Fentastic-KODI 21.2)</name>
-      <version>2.0</version>
+      <version>3.0</version>
       <kodi>K21</kodi>
-      <size>83MB</size>
-      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/FEN.ligth-sub.RO.skin.Fentastic-KODI.21.2.v.2.zip</url>
-      <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250214_094249_Kodi.jpg</icon>
-      <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250214_094249_Kodi.jpg</fanart>
+      <size>101MB</size>
+      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/FEN.light-sub.RO.skin.Fentastic-KODI.21.2.v.3.zip</url>
+      <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250521_184226_Kodi.jpg</icon>
+      <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250521_184226_Kodi.jpg</fanart>
       <description>Work with Debrid subscription only</description>
 </build>
 
