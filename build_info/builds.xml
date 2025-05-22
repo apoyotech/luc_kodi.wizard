@@ -123,13 +123,13 @@
 </build>
 
  <build>
-         <name>Seren-sub.RO(skin Nimbus-KODI 21.1)</name>
-         <version>1.0</version>
+         <name>Seren-sub.RO(skin Nimbus-KODI 21.2)</name>
+         <version>2.0</version>
          <kodi>K21</kodi>
-         <size>25MB</size>
-         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Seren-sub.RO.skin.Nimbus-KODI.21.1.zip</url>
-         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_133331_Kodi.jpg</icon>
-         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_133331_Kodi.jpg</fanart>
+         <size>32MB</size>
+         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Seren-sub.RO.skin.Nimbus-KODI.21.2.v.2.zip</url>
+         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250522_174816_Kodi.jpg</icon>
+         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250522_174816_Kodi.jpg</fanart>
          <description>Work with Debrid subscription only</description>
  </build>
 
