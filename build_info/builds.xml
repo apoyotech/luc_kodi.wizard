@@ -234,7 +234,22 @@
   </build>  
   
   
- <build>
+  <build> 
+          <name>Fen light-sub.RO(skin Arctic Fuse 2-KODI 21.2)</name>     
+          <version>1.0</version> 
+          <kodi>K21</kodi>    
+          <size>219MB</size>
+          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Fen.light-sub.RO.skin.Arctic.Fuse.2-KODI.21.2.zip</url>    
+          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250523_114244_Kodi.jpg</icon>   
+          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250523_114244_Kodi.jpg</fanart>   
+          <description>Work with Debrid subscription only</description> 
+  </build>     
+     
+     
+     
+     
+     
+<build>
               <name>[COLOR darkgoldenrod]---- Just-Free-KODI 21 Builds ----[/COLOR]</name>
               <kodi>K21</kodi>
               <url>http://</url>
