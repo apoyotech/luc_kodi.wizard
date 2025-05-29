@@ -261,14 +261,14 @@
 
 
 <build>
-          <name>[COLOR snow]Torrents-sub.RO(skin Fentastic-KODI 21.2)[/COLOR]</name> 
-          <version>3.0</version>
+          <name>[COLOR snow]Just-Free-sub.RO(skin Arctic Horizon 2-KODI 21.2)[/COLOR]</name> 
+          <version>1.0</version>
           <kodi>K21</kodi>
-          <size>156MB</size>
-          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Torrents-sub.RO.skin.Fentastic-KODI.21.2.v.3.zip</url>
-          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250527_103532_Kodi.jpg</icon>
-          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250527_103532_Kodi.jpg</fanart>
-          <description>This build work with torrents no need a Debrid subscription</description>
+          <size>192MB</size>
+          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just-Free-sub.RO.skin.Arctic.Horizon.2-KODI.21.2.v.1.zip</url>
+          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250529_003419_Kodi.jpg</icon>
+          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250529_003419_Kodi.jpg</fanart>
+          <description>This build no need a Debrid subscription</description>
 </build>
 
 <build>
