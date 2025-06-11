@@ -136,13 +136,13 @@
  </build>
 
  <build>
-         <name>Debrid-sub.ES(skin Nimbus-KODI 21.1)</name>
+         <name>Debrid-ES(skin Arctic Fuse 2-KODI 21.2)</name>
          <version>1.0</version>  
          <kodi>K21</kodi>
-         <size>46MB</size>
-         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.ES.skin.Nimbus-KODI.21.zip</url>
-         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241113_235259_Kodi.jpg</icon>
-         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241113_235259_Kodi.jpg</fanart>
+         <size>304MB</size>
+         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-ES.skin.Arctic.Fuse.2-KODI.21.2.v.1.zip</url>
+         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250611_175023_Kodi.jpg</icon>
+         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250611_175023_Kodi.jpg</fanart>
          <description>Work with Debrid subscription only</description>
  </build>
 
@@ -303,7 +303,7 @@
           <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just-Free-sub.RO.skin.Arctic.Horizon.2-KODI.21.2.v.1.zip</url>
           <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250529_003419_Kodi.jpg</icon>
           <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250529_003419_Kodi.jpg</fanart>
-          <description>This build no need a Debrid subscription</description>
+          <description>This build no need Debrid subscription</description>
 </build>
 
 <build>
