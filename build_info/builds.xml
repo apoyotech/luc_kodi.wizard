@@ -49,12 +49,12 @@
 
 <build>
   <name>Debrid-sub.Ro(skin AeonNox Silvo-KODI 21.2)</name>
-  <version>5.0</version>
+  <version>6.0</version>
   <kodi>K21</kodi>
-  <size>210MB</size>
-  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.AeonNox.Silvo-KODI.21.2.v.5.zip</url>
-  <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250521_125023_Kodi.jpg</icon>
-  <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250521_125023_Kodi.jpg</fanart>
+  <size>208MB</size>
+  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.AeonNox.Silvo-KODI.21.2.v.6.zip</url>
+  <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250613_185611_Kodi.jpg</icon>
+  <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250613_185611_Kodi.jpg</fanart>
   <description> Work with Debrid subscription only</description>
  </build>
   
