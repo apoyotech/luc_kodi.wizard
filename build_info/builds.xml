@@ -59,13 +59,13 @@
  </build>
   
 <build>
-  <name>Debrid-sub.RO(skin Estuary MOD V2-KODI 21.2)</name>
-  <version>6.0</version>
+  <name>Debrid-sub.RO(skin Estuary MOD v2-KODI 21.2)</name>
+  <version>7.0</version>
   <kodi>K21</kodi>
-  <size>198MB</size>
-  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Estuary.MOD.V2-KODI.21.2.v.6.zip</url>
-  <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250508_120303_Kodi.jpg</icon>
-  <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250508_120303_Kodi.jpg</fanart>
+  <size>222MB</size>
+  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Estuary.MOD.v2-KODI.21.2.v.7.zip</url>
+  <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250616_125425_Kodi.jpg</icon>
+  <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250616_125425_Kodi.jpg</fanart>
   <description>Work with  Debrid subscription only</description>
  </build>
   
