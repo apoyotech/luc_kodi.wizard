@@ -9,7 +9,7 @@
 	<extension point="xbmc.service" library="service.py" />
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">[COLOR fffe9900]This plugin.program.wizard it is inspired by plugin.program.simplewizard and is used to create an install builds and maintenance in  the open source KODI application[/COLOR]</summary>
-		<description lang="en_GB">[COLOR ff32cd32]Kodi Wizard[/COLOR]</description>
+		<description lang="en_GB">[COLOR ff32cd32]plugin.program.wizard for open source KODI[/COLOR]</description>
 		<disclaimer lang="en_GB">[COLOR ff32cd32]This plugin.program.wizard contains no content[/COLOR]</disclaimer>
 		<language>en</language>
 		<platform>all</platform>
