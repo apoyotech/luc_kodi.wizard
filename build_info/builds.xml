@@ -342,32 +342,6 @@
 </build>
 
 
-<build>
-       <name>[COLOR fffe9900]---- Skins for KODI ----[/COLOR]</name>
-       <kodi>K21</kodi>
-       <url>http://</url>
-       <icon>https://apoyotech.github.io/luc_kodi.wizard/pictures/Imagen-1.jpg</icon>
-       <fanart>https://apoyotech.github.io/luc_kodi.wizard/pictures/Imagen-1.jpg</fanart>
-       <description>luc_kodi.skins</description>
-</build>
-
-
-<build>
-       <name>skin.AeonNox Silvo</name>
-       <version>10.0.10</version>
-       <kodi>K21</kodi>
-       <size>89MB</size>
-       <url>https://github.com/apoyotech/luc_kodi.skins/releases/download/v.1.0.0/skin.aeon.nox.silvo-10.0.10.zip</url>
-       <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250613_185611_Kodi.jpg</icon>
-       <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250613_185611_Kodi.jpg</fanart>
-       <description>skin.AeonNox Silvo fork by apoyotech</description>
-</build>
-
-
-
-
-
-
 
 </builds>
 
