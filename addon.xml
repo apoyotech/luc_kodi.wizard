@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.luc_kodi.wizard" name="[COLOR mediumspringgreen]luc_[/COLOR]kodi.wizard" version="2.0.11" provider-name="[COLOR fffe9900$VAR][B]a[/B][/COLOR]poyo[COLOR fffe9900$VAR][B]t[/B][/COLOR]ech">	
+<addon id="plugin.program.luc_kodi.wizard" name="[COLOR mediumspringgreen]luc_[/COLOR]kodi.wizard" version="2.0.11" provider-name="[COLOR fffe9900$VAR][B]a[/B][/COLOR][COLOR mediumspringgreen]poyo[/COLOR][COLOR fffe9900$VAR][B]t[/B][/COLOR][COLOR mediumspringgreen]ech[/COLOR]">	
 	<requires>
 	<import addon="xbmc.python" version="3.0.1"/>
 	</requires>
