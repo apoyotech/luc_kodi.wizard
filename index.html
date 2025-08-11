@@ -63,7 +63,45 @@ h4 {
 
  
   
+ 
+button {
+  font-size: 1.4em;
+  padding: 0.6em 0.8em;
+  border-radius: 0.5em;
+  border: none;
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 2px 2px 3px #000000b4;
+}
 
+.container {
+  position: relative;
+  padding: 3px;
+  background: linear-gradient(90deg, #03a9f4, #f441a5);
+  border-radius: 0.9em;
+  transition: all 0.4s ease;
+}
+
+.container::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  border-radius: 0.9em;
+  z-index: -10;
+  filter: blur(0);
+  transition: filter 0.4s ease;
+}
+
+.container:hover::before {
+  background: linear-gradient(90deg, #03a9f4, #f441a5);
+  filter: blur(1.2em);
+}
+.container:active::before {
+  filter: blur(0.2em);
+}
+           
 
 
 
@@ -85,13 +123,14 @@ h4 {
      <img  src="resources/screenshot-3.jpg"  alt="Imagen3" loading="lazy">     
 </h2>   
   
-<button class="button"> 
+<div class="container">
+ <button class="button"> 
    <span>
    Este ,plugin.program.wizard ,sirve ,para crear y instalar backups y varías tareas de mantenimiento, para, la aplicación open source kodi.
    Esta inspirado ,en el plugin.program.simplewizard ,con todo los créditos para ellos,de mi parte y se incorpora con un pequeño toque mio.
    </span>     
 </button>
-
+</div>
       
 <h4> 
            <li><a href="luc_kodi.wizard-2.0.12.zip" style="color: rgb(240, 255, 240);">luc_kodi.wizard-2.0.12.zip</a></li> 
