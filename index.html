@@ -61,8 +61,61 @@ h4 {
   font-weight: 500;
 }   
 
-
  
+.slice {
+  --c1: #202020;
+  --c2: #00a1b7;
+  --size-letter: 32px;
+  padding: 0.5em 1em;
+  font-size: var(--size-letter);
+
+  background-color: transparent;
+  border: calc(var(--size-letter) / 6) solid var(--c2);
+  border-radius: 0.2em;
+  cursor: pointer;
+
+  overflow: hidden;
+  position: relative;
+  transition: 300ms cubic-bezier(0.83, 0, 0.17, 1);
+
+  & > .text {
+    font-weight: 700;
+    color: var(--c2);
+    position: relative;
+    z-index: 1;
+    transition: color 700ms cubic-bezier(0.83, 0, 0.17, 1);
+  }
+}
+
+.slice::after {
+  content: "";
+
+  width: 0;
+  height: calc(300% + 1em);
+
+  position: absolute;
+  translate: -50% -50%;
+  inset: 50%;
+  rotate: 30deg;
+
+  background-color: var(--c2);
+  transition: 1000ms cubic-bezier(0.83, 0, 0.17, 1);
+}
+
+.slice:hover {
+  & > .text {
+    color: var(--c1);
+  }
+  &::after {
+    width: calc(120% + 1em);
+  }
+}
+
+.slice:active {
+  scale: 0.98;
+  filter: brightness(0.9);
+}
+           
 
 
 
@@ -86,7 +139,7 @@ h4 {
      <img  src="resources/screenshot-3.jpg"  alt="Imagen3" loading="lazy">     
 </h2>   
   
-<button class="button"> 
+<button class="slice"> 
    <span>
    Este ,plugin.program.wizard ,sirve ,para crear y instalar backups y varías tareas de mantenimiento, para, la aplicación open source kodi.
    Esta inspirado ,en el plugin.program.simplewizard ,con todo los créditos para ellos,de mi parte y se incorpora con un pequeño toque mio.
