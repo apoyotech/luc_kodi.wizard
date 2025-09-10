@@ -1,5 +1,0 @@
-[B][COLOR ff00fa9a]Version 2.0.14[/COLOR][/B]
--Add new version build Debrid-sub.RO(skin luc_kodi nox-KODI 21.2)
--Add new version build Seren-sub.RO(skin Nimbus-KODI 21.2)
--Add new version build Debrid-sub.RO(skin Estuary MOD v2-KODI 21.2)
--Remove build Debrid-sub.RO(skin Estuary MOD v2-KODI 22)
