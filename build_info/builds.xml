@@ -3,7 +3,7 @@
 
 
 <build>
-     <name>[COLOR fffe9900]---- Debrid-KODI 22 Builds -----[/COLOR]</name>    
+     <name>[B][COLOR fffe9900]---- Debrid-KODI 22 Builds ----[/COLOR][/B]</name>    
      <kodi>K22</kodi>    
      <url>http://</url>    
      <icon>https://apoyotech.github.io/luc_kodi.wizard/pictures/Imagen-1.jpg</icon>     
@@ -21,24 +21,10 @@
       <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250523_114244_Kodi.jpg</fanart>   
       <description>Work with Debrid subscription only</description>  
 </build>   
+        
      
-<build>     
-      <name>Debrid-sub.RO(skin Estuary MOD v.2-KODI 22)</name>     
-      <version>1.0</version>   
-      <kodi>K22</kodi>  
-      <size>198MB</size>
-      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Estuary.MOD.v.2-KODI.22.v.1.zip</url>
-      <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250530_172559_Kodi.jpg</icon>
-      <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250530_172559_Kodi.jpg</fanart>
-      <description>Work with Debrid subscription only</description>
-</build>     
-     
-     
-     
-     
-     
- <build>
-     <name>[COLOR fffe9900]---- Debrid-KODI 21 Builds ----[/COLOR]</name>
+<build>
+     <name>[B][COLOR fffe9900]---- Debrid-KODI 21 Builds ----[/COLOR][/B]</name>
      <kodi>K21</kodi>
      <url>http://</url>
      <icon>https://apoyotech.github.io/luc_kodi.wizard/pictures/Imagen-1.jpg</icon>
@@ -48,13 +34,13 @@
 
 
 <build>
-  <name>Debrid-sub.Ro(skin AeonNox Silvo-KODI 21.2)</name>
-  <version>6.0</version>
+  <name>Debrid-sub.RO(skin luc_kodi nox-KODI 21.2)</name>
+  <version>7.0</version>
   <kodi>K21</kodi>
-  <size>208MB</size>
-  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.AeonNox.Silvo-KODI.21.2.v.6.zip</url>
-  <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250613_185611_Kodi.jpg</icon>
-  <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250613_185611_Kodi.jpg</fanart>
+  <size>202MB</size>
+  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.luc_kodi.nox-KODI.21.2.v.7.zip</url>
+  <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250904_113714_Kodi.jpg</icon>
+  <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250904_113714_Kodi.jpg</fanart>
   <description> Work with Debrid subscription only</description>
  </build>
   
@@ -137,12 +123,12 @@
 
  <build>
          <name>Seren-sub.RO(skin Nimbus-KODI 21.2)</name>
-         <version>2.0</version>
+         <version>3.0</version>
          <kodi>K21</kodi>
-         <size>32MB</size>
-         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Seren-sub.RO.skin.Nimbus-KODI.21.2.v.2.zip</url>
-         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250522_174816_Kodi.jpg</icon>
-         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250522_174816_Kodi.jpg</fanart>
+         <size>33MB</size>
+         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Seren-sub.RO.skin.Nimbus-Kodi.21.2.v.3.zip</url>
+         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250904_105519_Kodi.jpg</icon>
+         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250904_105519_Kodi.jpg</fanart>
          <description>Work with Debrid subscription only</description>
  </build>
 
@@ -252,7 +238,7 @@
      
      
 <build>
-              <name>[COLOR fffe9900]---- Just-Free-KODI 21 Builds ----[/COLOR]</name>
+              <name>[B][COLOR fffe9900]---- Just-Free-KODI 21 Builds ----[/COLOR][/B]</name>
               <kodi>K21</kodi>
               <url>http://</url>
               <icon>https://apoyotech.github.io/luc_kodi.wizard/pictures/Imagen-1.jpg</icon>
