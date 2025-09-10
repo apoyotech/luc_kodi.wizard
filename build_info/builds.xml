@@ -3,7 +3,7 @@
 
 
 <build>
-     <name>[B][COLOR fffe9900]---- Debrid-KODI 22 Builds ----[/COLOR][/B]</name>    
+     <name>[COLOR fffe9900]---- Debrid-KODI 22 Builds ----[/COLOR]</name>    
      <kodi>K22</kodi>    
      <url>http://</url>    
      <icon>https://apoyotech.github.io/luc_kodi.wizard/pictures/Imagen-1.jpg</icon>     
@@ -24,7 +24,7 @@
         
      
 <build>
-     <name>[B][COLOR fffe9900]---- Debrid-KODI 21 Builds ----[/COLOR][/B]</name>
+     <name>[COLOR fffe9900]---- Debrid-KODI 21 Builds ----[/COLOR]</name>
      <kodi>K21</kodi>
      <url>http://</url>
      <icon>https://apoyotech.github.io/luc_kodi.wizard/pictures/Imagen-1.jpg</icon>
@@ -46,10 +46,10 @@
   
 <build>
   <name>Debrid-sub.RO(skin Estuary MOD v2-KODI 21.2)</name>
-  <version>8.0</version>
+  <version>9.0</version>
   <kodi>K21</kodi>
-  <size>224MB</size>
-  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Estuary.MOD.v.2-KODI.21.2.v.8.zip</url>
+  <size>221MB</size>
+  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Estuary.MOD.v2-KODI.21.2.v.9.zip</url>
   <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Debrid-sub.Ro(skin%20Estuary%20MOD%20v2-KODI%2021.2)v.8.jpg</icon>
   <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Debrid-sub.Ro(skin%20Estuary%20MOD%20v2-KODI%2021.2)v.8.jpg</fanart>
   <description>Work with  Debrid subscription only</description>
@@ -238,7 +238,7 @@
      
      
 <build>
-              <name>[B][COLOR fffe9900]---- Just-Free-KODI 21 Builds ----[/COLOR][/B]</name>
+              <name>[COLOR fffe9900]---- Just-Free-KODI 21 Builds ----[/COLOR]</name>
               <kodi>K21</kodi>
               <url>http://</url>
               <icon>https://apoyotech.github.io/luc_kodi.wizard/pictures/Imagen-1.jpg</icon>
