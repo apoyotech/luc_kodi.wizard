@@ -1,3 +1,5 @@
+[B][COLOR ff00fa9a]Version 2.0.16[/COLOR][/B]
+- Add new update build Fen light-sub.RO(skin FENtastic-KODI 21.2) to v.4
 [B][COLOR ff00fa9a]Version 2.0.15[/COLOR][/B]
 - Add new update build Debrid-sub.RO(skin Estuary MOD v2-KODI 21.2) to v.9
 - Add new update build Debrid-sub.RO(skin luc_kodi nox-KODI 21.2) to v.7
