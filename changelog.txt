@@ -1,0 +1,4 @@
+1.0 - Release
+- Primera integración de changelog auto-mostrado al instalar o actualizar.
+- Añadido fichero changelog.txt.
+- Si deseas personalizarlo, edita este archivo con tus notas reales.
