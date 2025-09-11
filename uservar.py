@@ -1,5 +1,5 @@
 '''#####-----Build File-----#####'''
-buildfile = 'https://mia.nl.tab.digital/s/PEdXeeF3674cr7t/download/builds.xml'
+buildfile = 'https://mia.nl.tab.digital/s/ynbH9ye5Hi9Wd56/download/builds.xml'
 
 '''#####-----Notifications File-----#####'''
 notify_url  = 'http://CHANGEME'
