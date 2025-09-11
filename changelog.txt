@@ -1,4 +1,6 @@
-1.0 - Release
-- Primera integración de changelog auto-mostrado al instalar o actualizar.
-- Añadido fichero changelog.txt.
-- Si deseas personalizarlo, edita este archivo con tus notas reales.
+[B][COLOR ff00fa9a]Version 2.0.15[/COLOR][/B]
+- Add new update build Debrid-sub.RO(skin Estuary MOD v2-KODI 21.2) to v.9
+- Add new update build Debrid-sub.RO(skin luc_kodi nox-KODI 21.2) to v.7
+- Add new update build Seren-sub.RO)skin Nimbus-KODI 21.2) to v.3 
+- Remove build Debrid-sub.RO(skin Estuary MOD v2-KODI 22)v.1
+- Add changelog.txt for new changes in wizard 
