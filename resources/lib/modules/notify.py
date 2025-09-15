@@ -74,12 +74,10 @@ def notification_clog(message: str) -> None:
         def onClick(self, controlId):
             if controlId == self.CLOSEBUTTON:
                 self.close()
-                _service.Startup().check_updates()
-
-        def Close(self):
+                
+       def Close(self):
             self.close()
-            _service.Startup().check_updates()
-    
+            
     d = Notify('changelog.xml', xbmcaddon.Addon().getAddonInfo('path'), 'Default', '720p')
     d.doModal()
     del d
