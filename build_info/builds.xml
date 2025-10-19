@@ -69,10 +69,10 @@
   
 <build>
     <name>Debrid-sub.RO(skin Arctic Fuse 2-KODI 21.2)</name>
-    <version>5.0</version>
+    <version>6.0</version>
     <kodi>K21</kodi>
-    <size>286MB</size>
-    <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Arctic.Fuse.2-KODI.21.2.v.5.zip</url>
+    <size>291MB</size>
+    <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Arctic.Fuse.2-KODI.21.2.v.6.zip</url>
     <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250609_113821_Kodi.jpg</icon>
     <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250609_113821_Kodi.jpg</fanart>
     <description>Work with  Debrid subscription only</description>
@@ -80,12 +80,12 @@
 
 <build>
       <name>FEN light-sub.RO(skin FENtastic-KODI 21.2)</name>
-      <version>4.0</version>
+      <version>5.0</version>
       <kodi>K21</kodi>
-      <size>97MB</size>
-      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Fen.light-sub.RO.skin.FENtastic-KODI.21.2.v.4.zip</url>
-      <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250911_133144_Kodi.jpg</icon>
-      <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250911_133144_Kodi.jpg</fanart>
+      <size>111MB</size>
+      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/FEN.light-sub.RO.skin.FENtastic-KODI.21.2.v.5.zip</url>
+      <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251017_132753_Kodi.jpg</icon>
+      <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251017_132753_Kodi.jpg</fanart>
       <description>Work with Debrid subscription only</description>
 </build>
 
@@ -156,11 +156,11 @@
   </build>
 
   <build>
-          <name>Debrid-sub.RO(skin Titan Bingie mod-KODI 21.2)</name> 
-          <version>5.0</version>
+          <name>Debrid-sub.RO(skin Titan Bingie MOD-KODI 21.2)</name> 
+          <version>6.0</version>
           <kodi>K21</kodi>
-          <size>243MB</size>
-          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Titan.Bingie.mod-KODI.21.2.v.5.zip</url>
+          <size>251MB</size>
+          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Titan.Bingie.MOD-KODI.21.2.v.6.zip</url>
           <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250218_114647_Gallery.jpg</icon>
           <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250218_114647_Gallery.jpg</fanart>
           <description>Work with Debrid subscription only</description>
@@ -180,23 +180,23 @@
 
   <build>
             <name>Debrid-sub.RO(skin Confluence-KODI 21.2)</name>
-            <version>1.0</version>
+            <version>2.0</version>
             <kodi>K21</kodi>
-            <size>62MB</size>
-            <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Confluence-KODI.21.2.zip</url>
+            <size>73MB</size>
+            <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Confluence-KODI.21.2.v.2.zip</url>
             <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250509_135839_Kodi.jpg</icon>
             <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250509_135839_Kodi.jpg</fanart>
             <description>Work with Debrid subscription only</description>
   </build>
 
   <build>
-             <name>Debrid-sub.RO(skin mp3 HD mod-KODI 21.2)</name>
-             <version>2.0</version>
+             <name>Debrid-sub.RO(skin mp3 HD MOD-KODI 21.2)</name>
+             <version>3.0</version>
              <kodi>K21</kodi>
-             <size>43MB</size>
-             <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.mp3.HD.mod-KODI.21.2.v.2.zip</url>
-             <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/photo_2025-01-30_21-49-12.jpg</icon>
-             <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/photo_2025-01-30_21-49-12.jpg</fanart>
+             <size>51MB</size>
+             <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.mp3.HD.MOD-KODI21.2.v.3.zip</url>
+             <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251019_010353_Kodi.jpg</icon>
+             <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251019_010353_Kodi.jpg</fanart>
              <description>Work with Debrid subscription only</description>
   </build>
 
