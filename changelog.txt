@@ -1,3 +1,9 @@
+[B][COLOR ff00fa9a]Version 2.0.21[/COLOR][/B]
+-Update build Debrid-sub.RO(skin Arctic Fuse 2-KODI 21.2) to v.6
+-Update build Debrid-sub.RO(skin mp3 HD MOD-KODI 21.2) to v.3
+-FEN light-sub.RO(skin FENtastic-KODI 21.2) to v5
+-Debrid-sub.RO(skin Titan Bingie MOD-KODI 21.2) to v.6
+-Debrid-sub.RO(skin Confluence-KODI 21.2) to v.2
 [B][COLOR ff00fa9a]Version 2.0.20[/COLOR][/B]
 -Update build Just-Free-sub.RO(skin Fentastic-KODI 21.2 to v.2
 -Update build Just-Free-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.2) to v.2
