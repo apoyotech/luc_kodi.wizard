@@ -1,3 +1,5 @@
+[B][COLOR ff00fa9a]Version 2.0.22[/COLOR][/B]
+-Changed the cloud service where the builds are hosted
 [B][COLOR ff00fa9a]Version 2.0.21[/COLOR][/B]
 -Update build Debrid-sub.RO(skin Arctic Fuse 2-KODI 21.2) to v.6
 -Update build Debrid-sub.RO(skin mp3 HD MOD-KODI 21.2) to v.3
