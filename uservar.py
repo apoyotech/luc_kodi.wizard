@@ -1,5 +1,5 @@
 '''#####-----Build File-----#####'''
-buildfile = 'https://mia.nl.tab.digital/s/ZtK7ADBBj6FrTzo/download/builds.xml'
+buildfile = 'https://www.dropbox.com/scl/fi/78swgu8detc4f82brwiv0/builds.xml?rlkey=yr9kapqm128k58s6nql8pkn2m&st=iih2i8rx&dl=0'
 
 '''#####-----Notifications File-----#####'''
 notify_url  = 'http://CHANGEME'
