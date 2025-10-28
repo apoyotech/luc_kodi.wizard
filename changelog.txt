@@ -1,3 +1,8 @@
+[B][COLOR ff00fa9a]Version 2.0.23[/COLOR][/B]
+-Changed the cloud service where the builds are hosted
+-Update build Debrid-sub.RO(skin Estuary MOD V2-KODI 21.2) to v.10
+-Update build Just-Torrents-sub.RO(skin luc_kodi nox-KODI 21.2) to v.4
+-New build FEN light-sub.RO(skin Estuary MOD V2-KODI 21.2)
 [B][COLOR ff00fa9a]Version 2.0.22[/COLOR][/B]
 -Changed the cloud service where the builds are hosted
 [B][COLOR ff00fa9a]Version 2.0.21[/COLOR][/B]
@@ -10,7 +15,7 @@
 -Update build Just-Free-sub.RO(skin Fentastic-KODI 21.2 to v.2
 -Update build Just-Free-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.2) to v.2
 [B][COLOR ff00fa9a]Version 2.0.19[/COLOR][/B]
--Add new build Debrid-luc_kodi-sub.RO(skin AeonNox Silvo mod by luc_kodi-KODI 21.2)v.1
+-New build Debrid-luc_kodi-sub.RO(skin AeonNox Silvo mod by luc_kodi-KODI 21.2)
 [B][COLOR ff00fa9a]Version 2.0.18[/COLOR][/B]
 - Added some optimizations
 [B][COLOR ff00fa9a]Version 2.0.17[/COLOR][/B]
