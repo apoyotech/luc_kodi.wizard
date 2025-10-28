@@ -34,8 +34,7 @@
 
 
 <build>
-     <name>FEN light-sub.RO</name>  
-     <theme>Estuary MOD V2</theme>
+     <name>FEN light-sub.RO(skin Estuary MOD V2-KODI 21.2)</name>  
      <version>1.0</version>
      <kodi>K21</kodi>  
      <size>216MB</size>
@@ -70,7 +69,7 @@
  </build>
   
 <build>
-  <name>Debrid-sub.RO(skin Estuary MOD v2-KODI 21.2)</name>
+  <name>Debrid-sub.RO(skin Estuary MOD V2-KODI 21.2)</name>
   <version>10</version>
   <kodi>K21</kodi>
   <size>265MB</size>
