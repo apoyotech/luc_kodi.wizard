@@ -34,6 +34,19 @@
 
 
 <build>
+     <name>FEN light-sub.RO</name>  
+     <theme>Estuary MOD V2</theme>
+     <version>1.0</version>
+     <kodi>K21</kodi>  
+     <size>216MB</size>
+     <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/FEN.light-sub.RO.skin.Estuary.MOD.V2-KODI.21.2.v.1.zip</url>
+     <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251022_131604_Kodi.jpg</icon>
+     <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251022_131604_Kodi.jpg</fanart>
+     <description>Work with Debrid subscription only</description>
+</build>     
+     
+
+<build>
       <name>Debrid-luc_kodi-sub.RO(skin AeonNox Silvo mod by luc_kodi-KODI 21.2)</name>     
       <version>1.0</version>
       <kodi>K21</kodi>    
@@ -58,12 +71,12 @@
   
 <build>
   <name>Debrid-sub.RO(skin Estuary MOD v2-KODI 21.2)</name>
-  <version>9.0</version>
+  <version>10</version>
   <kodi>K21</kodi>
-  <size>221MB</size>
-  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Estuary.MOD.v2-KODI.21.2.v.9.zip</url>
-  <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Debrid-sub.Ro(skin%20Estuary%20MOD%20v2-KODI%2021.2)v.8.jpg</icon>
-  <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Debrid-sub.Ro(skin%20Estuary%20MOD%20v2-KODI%2021.2)v.8.jpg</fanart>
+  <size>265MB</size>
+  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Estuary.MOD.V2-KODI.21.2.v.10.zip</url>
+  <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251022_134705_Kodi.jpg</icon>
+  <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251022_134705_Kodi.jpg</fanart>
   <description>Work with  Debrid subscription only</description>
  </build>
   
@@ -296,11 +309,11 @@
 
 
 <build>
-        <name>[COLOR snow]Just.Torrents-sub.RO(skin AeonNox Silvo-KODI 21.2)[/COLOR]</name>
-        <version>3.0</version>
+        <name>[COLOR snow]Just-Torrents-sub.RO(skin luc_kodi nox-KODI 21.2)[/COLOR]</name>
+        <version>4.0</version>
         <kodi>K21</kodi>
-        <size>262MB</size>
-        <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just.Torrents-sub.RO.skin.AeonNox.Silvo-KODI.21.2.v.3.zip</url>
+        <size>265MB</size>
+        <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just-Torrents-sub.RO.skin.luc_kodi.nox-KODI.21.2.v.4.zip</url>
         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250821_182505_Kodi.jpg</icon>
         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250821_182505_Kodi.jpg</fanart>
         <description>This build no need Debrid subscription</description>
