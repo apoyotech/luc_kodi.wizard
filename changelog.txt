@@ -1,3 +1,5 @@
+[B][COLOR ff00fa9a]Version 2.0.25[/COLOR][/B]
+-The default colors changed
 [B][COLOR ff00fa9a]Version 2.0.24[/COLOR][/B]
 -Small aesthetic changes
 [B][COLOR ff00fa9a]Version 2.0.23[/COLOR][/B]
