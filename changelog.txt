@@ -1,3 +1,5 @@
+[B][COLOR ff00fa9a]Version 2.0.24[/COLOR][/B]
+-Small aesthetic changes
 [B][COLOR ff00fa9a]Version 2.0.23[/COLOR][/B]
 -Changed the cloud service where the builds are hosted
 -Update build Debrid-sub.RO(skin Estuary MOD V2-KODI 21.2) to v.10
