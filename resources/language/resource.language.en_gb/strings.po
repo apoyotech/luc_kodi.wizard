@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Simple Wizard
-# Addon id: plugin.program.simple19wizard
-# Addon Provider: Slam, Sarge, BYB
+# Addon Name: luc_kodi.wizard
+# Addon id: plugin.program.luc_kodi.wizard
+# Addon Provider: apoyotech
 msgid ""
 msgstr ""
 "Project-Id-Version: Kodi Addons\n"
