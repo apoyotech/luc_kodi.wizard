@@ -21,15 +21,15 @@ COLOR4 = colors.color_text4
 def main_menu():
     xbmcplugin.setPluginCategory(HANDLE, COLOR1('Main Menu'))
     
-    add_dir(COLOR1(f"<><> [B]Welcome to luc_kodi.wizard[/B] <><>"), '', '', addon_icon, addon_fanart, COLOR2(f'luc_kodi.wizard v{addon_ver}\n\nSystem Uptime:  {uptime}\nTotal System Uptime:  {total_uptime}'), isFolder=False)
+    add_dir(COLOR1(f"<><> [B]Welcome to luc_kodi.wizard[/B] <><>"), '', '', addon_icon, addon_fanart, COLOR1(f'luc_kodi.wizard v{addon_ver}\n\nSystem Uptime:  {uptime}\nTotal System Uptime:  {total_uptime}'), isFolder=False)
     
     if UPDATE_VERSION > BUILD_VERSION:
-        add_dir(COLOR3(f'[B]Build Update Available!!![/B]   [{BUILD_NAME} v{UPDATE_VERSION}]'), '', 41, addon_icon, addon_fanart, COLOR2(local_string(30110)), isFolder=False)  # Build Update Available
+        add_dir(COLOR3(f'[B]Build Update Available!!![/B]   [{BUILD_NAME} v{UPDATE_VERSION}]'), '', 41, addon_icon, addon_fanart, COLOR3(local_string(30110)), isFolder=False)  # Build Update Available
         
     elif CURRENT_BUILD not in ['No Build Installed', 'No Build']:
-        add_dir(COLOR4(f'Installed Build:   {CURRENT_BUILD} v{BUILD_VERSION}'), '', '', addon_icon, addon_fanart, COLOR2(f'Install Date:  {inst_date}\nBuild Skin:  {cur_skin}\n\nVideo Add-ons  [{vid_list}]\nProgram Add-ons  [{prg_list}]\nRepositories  [{repo_list}]'), isFolder=False)  # Show the current installed build
+        add_dir(COLOR4(f'Installed Build:   {CURRENT_BUILD} v{BUILD_VERSION}'), '', '', addon_icon, addon_fanart, COLOR4(f'Install Date:  {inst_date}\nBuild Skin:  {cur_skin}\n\nVideo Add-ons  [{vid_list}]\nProgram Add-ons  [{prg_list}]\nRepositories  [{repo_list}]'), isFolder=False)  # Show the current installed build
 
-    add_dir(COLOR4(f'Kodi Version:  v{kodi_ver}'), '', '', addon_icon, addon_fanart, COLOR2(f'Release Date: {build_date}\n\nFull Version:\n{build_ver}'), isFolder=False)  # Show the installed version of Kodi
+    add_dir(COLOR4(f'Kodi Version:  v{kodi_ver}'), '', '', addon_icon, addon_fanart, COLOR4(f'Release Date: {build_date}\n\nFull Version:\n{build_ver}'), isFolder=False)  # Show the installed version of Kodi
     
     if buildfile not in ['', 'http://', 'http://CHANGEME/']:
         add_dir(COLOR2(f'Build Menu  ({NUM_BUILDS} Builds)'), '', 1, addon_icon, addon_fanart, COLOR2(local_string(30001)), isFolder=True)  # Build Menu with total builds
