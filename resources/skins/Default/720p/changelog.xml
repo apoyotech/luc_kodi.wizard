@@ -23,7 +23,7 @@
 			<description>Close</description>
 			<width>75</width>
 			<height>37</height>
-			<texturefocus colordiffuse="white">close.png</texturefocus>
+			<texturefocus colordiffuse="darksalmon">close.png</texturefocus>
             	<texturenofocus colordiffuse="grey">close.png</texturenofocus>
 			<bordersize>5</bordersize>
 			<onleft>301</onleft>
@@ -43,4 +43,5 @@
 			<pagecontrol>301</pagecontrol>
 		</control>
 	</controls>
+
 </window>
