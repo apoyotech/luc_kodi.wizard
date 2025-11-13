@@ -24,7 +24,7 @@
 			<description>Close</description>
 			<width>75</width>
 			<height>37</height>
-			<texturefocus colordiffuse="deepskyblue">close.png</texturefocus>
+			<texturefocus colordiffuse="darksalmon">close.png</texturefocus>
             <texturenofocus colordiffuse="grey">close.png</texturenofocus>
 			<bordersize>5</bordersize>
 			<onleft>301</onleft>
@@ -64,4 +64,5 @@
       <onright>302</onright>
 </control>
 	</controls>
+
 </window>
