@@ -1,3 +1,6 @@
+[B][COLOR ff00fa9a]Version 2.0.28[/COLOR][/B]
+-Update build Debrid-sub.RO(skin simpleTOUCHreloaded-KODI 21.3) to v.2
+-Update FEN light-sub.RO(skin FENtastic-KODI 21.3) to v.6
 [B][COLOR ff00fa9a]Version 2.0.27[/COLOR][/B]
 -Small aesthetic changes
 [B][COLOR ff00fa9a]Version 2.0.26[/COLOR][/B]
