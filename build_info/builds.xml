@@ -91,13 +91,13 @@
 </build>
 
 <build>
-      <name>FEN light-sub.RO(skin FENtastic-KODI 21.2)</name>
-      <version>5.0</version>
+      <name>FEN light-sub.RO(skin FENtastic-KODI 21.3)</name>
+      <version>6.0</version>
       <kodi>K21</kodi>
       <size>111MB</size>
-      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/FEN.light-sub.RO.skin.FENtastic-KODI.21.2.v.5.zip</url>
-      <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251017_132753_Kodi.jpg</icon>
-      <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251017_132753_Kodi.jpg</fanart>
+      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/FEN.light-sub.RO.skin.FENtastic-KODI.21.3.v.6.zip</url>
+      <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251209_235125_Kodi.jpg</icon>
+      <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251209_235125_Kodi.jpg</fanart>
       <description>Work with Debrid subscription only</description>
 </build>
 
@@ -235,13 +235,13 @@
   </build>
 
   <build> 
-             <name>Debrid-sub.RO(skin simpleTOUCHreloaded-KODI 21.2)</name>
-             <version>1.0</version>
+             <name>Debrid-sub.RO(skin simpleTOUCHreloaded-KODI 21.3)</name>
+             <version>2.0</version>
              <kodi>K21</kodi>     
-             <size>46MB</size>
-             <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.simpleTOUCHreloaded-KODI.21.2.zip</url>  
-             <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250325_001057_Kodi.jpg</icon> 
-             <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250325_001057_Kodi.jpg</fanart>  
+             <size>48MB</size>
+             <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.simpleTOUCHreloaded-KODI.21.3.v.2.zip</url>  
+             <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251209_232309_Kodi.jpg</icon> 
+             <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251209_232309_Kodi.jpg</fanart>  
              <description>Work with Debrid subscription only</description> 
   </build>  
   
