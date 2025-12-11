@@ -92,12 +92,12 @@
 
 <build>
       <name>FEN light-sub.RO(skin FENtastic-KODI 21.3)</name>
-      <version>6.0</version>
+      <version>7.0</version>
       <kodi>K21</kodi>
-      <size>111MB</size>
-      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/FEN.light-sub.RO.skin.FENtastic-KODI.21.3.v.6.zip</url>
-      <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251209_235125_Kodi.jpg</icon>
-      <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251209_235125_Kodi.jpg</fanart>
+      <size>105MB</size>
+      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/FEN.light-sub.RO.skin.FENtastic-.KODI.21.3.v.7.zip</url>
+      <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251211_132532_Kodi.jpg</icon>
+      <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251211_132532_Kodi.jpg</fanart>
       <description>Work with Debrid subscription only</description>
 </build>
 
