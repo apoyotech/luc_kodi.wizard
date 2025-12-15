@@ -46,11 +46,11 @@
      
 
 <build>
-      <name>Debrid-luc_kodi-sub.RO(skin AeonNox Silvo mod by luc_kodi-KODI 21.2)</name>     
-      <version>1.0</version>
+      <name>Debrid-luc_kodi-sub.RO(skin AeonNox Silvo mod by luc_kodi-KODI 21.3)</name>     
+      <version>2.0</version>
       <kodi>K21</kodi>    
-      <size>195MB</size> 
-      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-luc_kodi-sub.RO.skin.AeonNox.Silvo.mod.by.luc_kodi-KODI.21.2.v.1.zip</url>     
+      <size>211MB</size> 
+      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-luc_kodi-sub.RO.skin.AeonNox.Silvo.mod.by.luc_kodi-KODI.21.3.v.2.zip</url>     
       <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250926_003259_Kodi.jpg</icon>
       <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250926_003259_Kodi.jpg</fanart>
       <description>Work with Debrid subscription only</description>
@@ -80,13 +80,13 @@
  </build>
   
 <build>
-    <name>Debrid-sub.RO(skin Arctic Fuse 2-KODI 21.2)</name>
-    <version>6.0</version>
+    <name>Debrid-sub.RO(skin Arctic Fuse 2-KODI 21.3)</name>
+    <version>7.0</version>
     <kodi>K21</kodi>
-    <size>291MB</size>
-    <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Arctic.Fuse.2-KODI.21.2.v.6.zip</url>
-    <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250609_113821_Kodi.jpg</icon>
-    <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250609_113821_Kodi.jpg</fanart>
+    <size>329MB</size>
+    <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Arctic.Fuse.2-KODI.21.3.v.7.zip</url>
+    <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251213_003213_Kodi.jpg</icon>
+    <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251213_003213_Kodi.jpg</fanart>
     <description>Work with  Debrid subscription only</description>
 </build>
 
