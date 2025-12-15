@@ -1,3 +1,6 @@
+[B][COLOR ff00fa9a]Version 2.0.30[/COLOR][/B]
+-Update build Debrid-sub.RO(skin Arctic Fuse 2-KODI 21.3)  to v.7
+-Update build Debrid-luc_kodi-sub.RO(sin AeonNox Silvo mod by luc_kodi-KODI 21.3) tov.2
 [B][COLOR ff00fa9a]Version 2.0.29[/COLOR][/B]
 -Update build FEN light-sub.RO(skin FENtastic-KODI 21.3) to v.7
 [B][COLOR ff00fa9a]Version 2.0.28[/COLOR][/B]
