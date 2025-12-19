@@ -34,13 +34,13 @@
 
 
 <build>
-     <name>FEN light-sub.RO(skin Estuary MOD V2-KODI 21.2)</name>  
+     <name>Debrid-luc_kodi-sub.RO(skin Estuary MOD V2-KODI 21.3)</name>  
      <version>1.0</version>
      <kodi>K21</kodi>  
-     <size>216MB</size>
-     <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/FEN.light-sub.RO.skin.Estuary.MOD.V2-KODI.21.2.v.1.zip</url>
-     <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251022_131604_Kodi.jpg</icon>
-     <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251022_131604_Kodi.jpg</fanart>
+     <size>254MB</size>
+     <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-luc_kodi-sub.RO.skin.Estuary.MOD.V2-KODI.21.3.v.1.zip</url>
+     <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251219_122351_Kodi.jpg</icon>
+     <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251219_122351_Kodi.jpg</fanart>
      <description>Work with Debrid subscription only</description>
 </build>     
      
@@ -123,16 +123,6 @@
           <description>Work with Debrid subscription only</description>
  </build>
 
- <build>
-         <name>Debrid-ES(skin Arctic Fuse 2-KODI 21.2)</name>
-         <version>2.0</version>  
-         <kodi>K21</kodi>
-         <size>330MB</size>
-         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.ES.skin.Arctic.Fuse.2-KODI.21.2.v.2.zip</url>
-         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250807_102400_Kodi.jpg</icon>
-         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250807_102400_Kodi.jpg</fanart>
-         <description>Work with Debrid subscription only</description>
- </build>
 
 <build>
          <name>Debrid-sub.RO(skin AeonNox 5-KODI 21.1)</name>
@@ -178,17 +168,6 @@
           <description>Work with Debrid subscription only</description>
   </build>
 
-  <build>
-           <name>Debrid-sub.Ro(skin Altus-KODI 21.1)</name>
-           <version>2.0</version>
-           <kodi>K21</kodi>
-           <size>48MB</size>
-           <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.Ro.skin.Altus-KODI.21.1.v.2.zip</url>
-           <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241230_113231_Kodi.jpg</icon>
-           <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241230_113231_Kodi.jpg</fanart>
-           <description>Work with Debrid subscription only</description>
-
-  </build>
 
   <build>
             <name>Debrid-sub.RO(skin Confluence-KODI 21.2)</name>
