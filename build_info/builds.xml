@@ -252,25 +252,14 @@
 
 
 <build>
-          <name>[COLOR snow]VixMovie-sub.RO(skin Arctic Fuse 2-KODI 21.2)[/COLOR]</name> 
-          <version>1.0</version>
-          <kodi>K21</kodi>
-          <size>199MB</size>
-          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/VixMovie-sub.RO.skin.Arctic.Fuse.2-KODI.21.2.v.1.zip</url>
-          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251106_131955_Kodi.jpg</icon>
-          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251106_131955_Kodi.jpg</fanart>
-          <description>This build no need Debrid subscription</description>
-</build>
-
-<build>
-         <name>[COLOR snow]Just-Free-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.2)[/COLOR]</name>
-         <version>2.0</version>
+         <name>[COLOR snow]Just-Free-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.3)[/COLOR]</name>
+         <version>3.0</version>
          <kodi>K21</kodi>
-         <size>136MB</size>
-         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just-Free-sub.RO.skin.Arctic.Zephyr.Resurrection-light-KODI.21.2.v.2.zip</url>
-         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251014_102247_Kodi.jpg</icon>
-         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251014_102247_Kodi.jpg</fanart>
-         <description>This build no need Debrid subscription</description>
+         <size>133MB</size>
+         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just-Free-sub.RO.skin.Arctic.Zephyr.Resurrection-KODI.21.3.v.3.zip</url>
+         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260130_175018_Kodi.jpg</icon>
+         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260130_175018_Kodi.jpg</fanart>
+         <description>[COLOR ffc75453]This build no need Debrid subscription[/COLOR]</description>
 </build>
 
 <build>
@@ -281,20 +270,20 @@
         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just-Free-sub.RO.skin.Fentastic-KODI.21.2.v.2.zip</url>
         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251014_125513_Kodi.jpg</icon>
         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251014_125513_Kodi.jpg</fanart>
-        <description>This build no need Debrid subscription</description>
+        <description>[COLOR ffc75453This build no need Debrid subscription[/COLOR]</description>
 </build>
 
 
 
 <build>
-        <name>[COLOR snow]Just-Torrents-sub.RO(skin luc_kodi nox-KODI 21.2)[/COLOR]</name>
-        <version>4.0</version>
+        <name>[COLOR snow]Just-Torrents-sub.RO(skin AeonNox Silvo-KODI 21.3)[/COLOR]</name>
+        <version>5.0</version>
         <kodi>K21</kodi>
-        <size>265MB</size>
-        <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just-Torrents-sub.RO.skin.luc_kodi.nox-KODI.21.2.v.4.zip</url>
+        <size>266MB</size>
+        <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just-Torrents-sub.RO.skin.AeonNox.Silvo-KODI.21.3.v.5.zip</url>
         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250821_182505_Kodi.jpg</icon>
         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250821_182505_Kodi.jpg</fanart>
-        <description>This build no need Debrid subscription</description>
+        <description>[COLOR ffc75453]This build no need Debrid subscription[/COLOR]</description>
 </build>
 
 
