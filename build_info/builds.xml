@@ -136,7 +136,7 @@
 </build>
 
  <build>
-         <name>[COLOR fff4f4f4]Debrid-luc-kodi-sub.RO(skin Nimbus-KODI 21.3)[/COLOR]</name>
+         <name>[COLOR fff4f4f4]Debrid-luc_kodi-sub.RO(skin Nimbus-KODI 21.3)[/COLOR]</name>
          <version>1.0</version>
          <kodi>K21</kodi>
          <size>53MB</size>
@@ -250,7 +250,7 @@
         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just-Free-sub.RO.skin.Fentastic-KODI.21.2.v.2.zip</url>
         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251014_125513_Kodi.jpg</icon>
         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251014_125513_Kodi.jpg</fanart>
-        <description>[COLOR ffc75453This build no need Debrid subscription[/COLOR]</description>
+        <description>[COLOR ffc75453]This build no need Debrid subscription[/COLOR]</description>
 </build>
 
 
