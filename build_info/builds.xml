@@ -113,13 +113,13 @@
  </build>
 
  <build>
-          <name>[COLOR fff4f4f4]Debrid-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.1)[/COLOR]</name>
-          <version>3.0</version>
+          <name>[COLOR fff4f4f4]Debrid-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.3)[/COLOR]</name>
+          <version>4.0</version>
           <kodi>K21</kodi>
-          <size>62MB</size> 
-          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Arctic.Zephyr.Resurrection-KODI-21.1.v.3.zip</url>
-          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_120207_Kodi.jpg</icon>
-          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_120207_Kodi.jpg</fanart>
+          <size>100MB</size> 
+          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Arctic.Zephyr.Resurrection-KODI.21.3.v.4.zip</url>
+          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260203_194410_Kodi.jpg</icon>
+          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260203_194410_Kodi.jpg</fanart>
           <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
  </build>
 
@@ -136,13 +136,13 @@
 </build>
 
  <build>
-         <name>[COLOR fff4f4f4]Seren-sub.RO(skin Nimbus-KODI 21.2)[/COLOR]</name>
-         <version>3.0</version>
+         <name>[COLOR fff4f4f4]Debrid-luc-kodi-sub.RO(skin Nimbus-KODI 21.3)[/COLOR]</name>
+         <version>1.0</version>
          <kodi>K21</kodi>
-         <size>33MB</size>
-         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Seren-sub.RO.skin.Nimbus-Kodi.21.2.v.3.zip</url>
-         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250904_105519_Kodi.jpg</icon>
-         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250904_105519_Kodi.jpg</fanart>
+         <size>53MB</size>
+         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-luc_kodi-sub.RO.skin.Nimbus-KODI.21.3.v.1.zip</url>
+         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260207_122341_Kodi.jpg</icon>
+         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260207_122341_Kodi.jpg</fanart>
          <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
  </build>
 
@@ -191,27 +191,7 @@
              <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
   </build>
 
-  <build>
-             <name>[COLOR fff4f4f4]Debrid-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.2)[/COLOR]</name>
-             <version>1.0</version>
-             <kodi>K21</kodi>
-             <size>77MB</size>
-             <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Arctic.Zephyr.Resurrection-ligth.view-KODI.21.2.v.1.zip</url>
-             <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250212_101124_Kodi.jpg</icon>
-             <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250212_101124_Kodi.jpg</fanart>
-             <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
-  </build>
-
-  <build>
-             <name>[COLOR fff4f4f4]Debrid-sub.RO(skin Arctic Zephyr Resurrection dark-KODI 21.2)[/COLOR]</name>
-             <version>1.0</version>
-             <kodi>K21</kodi>
-             <size>79MB</size>
-             <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Arctic.Zephyr.Resurrection.darker.view-KODI.21.2.v.1.zip</url>
-             <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250213_113912_Kodi.jpg</icon>
-             <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250213_113912_Kodi.jpg</fanart>
-             <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
-  </build>
+  
 
   <build> 
              <name>[COLOR fff4f4f4]Debrid-sub.RO(skin simpleTOUCHreloaded-KODI 21.3)[/COLOR]</name>
@@ -253,12 +233,12 @@
 
 <build>
          <name>[COLOR snow]Just-Free-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.3)[/COLOR]</name>
-         <version>3.0</version>
+         <version>4.0</version>
          <kodi>K21</kodi>
-         <size>133MB</size>
-         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just-Free-sub.RO.skin.Arctic.Zephyr.Resurrection-KODI.21.3.v.3.zip</url>
-         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260130_175018_Kodi.jpg</icon>
-         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260130_175018_Kodi.jpg</fanart>
+         <size>143MB</size>
+         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just-Free-sub.RO.skin.Arctic.Zephyr.Resurrection-KODI.21.3.v.4.zip</url>
+         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260205_181517_Kodi.jpg</icon>
+         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260205_181517_Kodi.jpg</fanart>
          <description>[COLOR ffc75453]This build no need Debrid subscription[/COLOR]</description>
 </build>
 
