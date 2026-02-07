@@ -1,4 +1,10 @@
-[B][COLOR ffc75453]01.02.2026[/COLOR][/B]-[B][COLOR ff00fa9a]Version 2.0.33[/COLOR][/B]
+   [B][COLOR ffc75453]07.02.2026[/COLOR][/B]-[B][COLOR ff00fa9a]Version 2.0.34[/COLOR][/B]
+-Remove build Debrid-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.2 light)
+-Remove build Debrid-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.2 dark)
+-Update build Debrid-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.3) to v4
+-Update build Just-Free-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.3) to v4
+-Add new build Debrid-luc_kodi-sub.RO(skin Nimbus-KODI 21.3)v.1
+   [B][COLOR ffc75453]01.02.2026[/COLOR][/B]-[B][COLOR ff00fa9a]Version 2.0.33[/COLOR][/B]
 -Remove build VixMovies-sub.RO(skin Arctic Fuse 2-KODI 21.2)
 -Update build Just-Torrents-sub.RO(skin AeonNox Silvo-KODI 21.3) to v.5
 -Update build Just-Free-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.3)to v.3
