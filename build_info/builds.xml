@@ -11,18 +11,7 @@
      <description>luc_kodi.backups</description>   
 </build>     
      
-<build>    
-      <name>FEN light-sub.RO(skin Arctic Fuse 2-KODI 22)</name>     
-      <version>1.0</version>    
-      <kodi>K22</kodi>     
-      <size>220MB</size> 
-      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/FEN.light-sub.RO.skin.Arctic.Fuse.2-KODI.22.v.1.zip</url>
-      <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250523_114244_Kodi.jpg</icon>     
-      <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250523_114244_Kodi.jpg</fanart>   
-      <description>Work with Debrid subscription only</description>  
-</build>   
         
-     
 <build>
      <name>[COLOR fffe9900]---- Debrid-KODI 21 Builds ----[/COLOR]</name>
      <kodi>K21</kodi>
@@ -58,46 +47,46 @@
      
      
 <build>
-  <name>[COLOR fff4f4f4]Debrid-sub.RO(skin luc_kodi nox-KODI 21.2)[/COLOR]</name>
-  <version>7.0</version>
+  <name>[COLOR fff4f4f4]Debrid(skin AeonNox Silvo mod by luc_kodi-KODI 21.3)[/COLOR]</name>
+  <version>8.0</version>
   <kodi>K21</kodi>
-  <size>202MB</size>
-  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.luc_kodi.nox-KODI.21.2.v.7.zip</url>
-  <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250904_113714_Kodi.jpg</icon>
-  <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250904_113714_Kodi.jpg</fanart>
+  <size>215MB</size>
+  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid.skin.AeonNox.Silvo-mod.by.luc_kodi-KODI.21.3.v.8.zip</url>
+  <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_005909_Kodi.jpg</icon>
+  <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_005909_Kodi.jpg</fanart>
   <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
  </build>
   
 <build>
-  <name>[COLOR fff4f4f4]Debrid-sub.RO(skin Estuary MOD V2-KODI 21.3)[/COLOR]</name>
-  <version>11</version>
+  <name>[COLOR fff4f4f4]Debrid(skin Estuary mod V2-KODI 21.3)[/COLOR]</name>
+  <version>12</version>
   <kodi>K21</kodi>
-  <size>267MB</size>
-  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Estuary.MOD.V2-KODI.21.3.v.11.zip</url>
-  <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251216_181610_Kodi.jpg</icon>
-  <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251216_181610_Kodi.jpg</fanart>
+  <size>245MB</size>
+  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid.skin.Estuary.mod.V2-KODI.21.3.v.12.zip</url>
+  <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_012319_Kodi.jpg</icon>
+  <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_012319_Kodi.jpg</fanart>
   <description>[COLOR ffc75453]Work with  Debrid subscription only[/COLOR]</description>
  </build>
   
 <build>
-    <name>[COLOR fff4f4f4]Debrid-sub.RO(skin Arctic Fuse 2-KODI 21.3)[/COLOR]</name>
-    <version>7.0</version>
+    <name>[COLOR fff4f4f4]Debrid(skin Arctic Fuse 2-KODI 21.3)[/COLOR]</name>
+    <version>8.0</version>
     <kodi>K21</kodi>
-    <size>329MB</size>
-    <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Arctic.Fuse.2-KODI.21.3.v.7.zip</url>
-    <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251213_003213_Kodi.jpg</icon>
-    <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251213_003213_Kodi.jpg</fanart>
+    <size>317MB</size>
+    <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid.skin.Arctic.Fuse.2-Kodi.21.3.v.8.zip</url>
+    <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_000606_Kodi.jpg</icon>
+    <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_000606_Kodi.jpg</fanart>
     <description>[COLOR ffc75453]Work with  Debrid subscription only[/COLOR]</description>
 </build>
 
 <build>
-      <name>[COLOR fff4f4f4]FEN light-sub.RO(skin FENtastic-KODI 21.3)[/COLOR]</name>
-      <version>7.0</version>
+      <name>[COLOR fff4f4f4]FEN light AM(skin FENtastic-KODI 21.3)[/COLOR]</name>
+      <version>8.0</version>
       <kodi>K21</kodi>
-      <size>105MB</size>
-      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/FEN.light-sub.RO.skin.FENtastic-.KODI.21.3.v.7.zip</url>
-      <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251211_132532_Kodi.jpg</icon>
-      <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251211_132532_Kodi.jpg</fanart>
+      <size>103MB</size>
+      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Fen.ligth.AM.skin.FENtastic-KODI.21.3.v.8.zip</url>
+      <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_001525_Kodi.jpg</icon>
+      <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_001525_Kodi.jpg</fanart>
       <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
 </build>
 
