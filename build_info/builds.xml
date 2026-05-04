@@ -23,18 +23,6 @@
 
 
 <build>
-     <name>[COLOR fff4f4f4]Debrid-luc_kodi-sub.RO(skin Estuary MOD V2-KODI 21.3)[/COLOR]</name>  
-     <version>1.0</version>
-     <kodi>K21</kodi>  
-     <size>254MB</size>
-     <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-luc_kodi-sub.RO.skin.Estuary.MOD.V2-KODI.21.3.v.1.zip</url>
-     <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251219_122351_Kodi.jpg</icon>
-     <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20251219_122351_Kodi.jpg</fanart>
-     <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
-</build>     
-     
-
-<build>
       <name>[COLOR fff4f4f4]Debrid-luc_kodi-sub.RO(skin AeonNox Silvo mod by luc_kodi-KODI 21.3)[/COLOR]</name>     
       <version>2.0</version>
       <kodi>K21</kodi>    
@@ -91,24 +79,24 @@
 </build>
 
 <build>
-         <name>[COLOR fff4f4f4]Debrid-sub.RO(skin Arctic Horizon 2-KODI 21.2)[/COLOR]</name>
-         <version>3.0</version>
+         <name>[COLOR fff4f4f4]Debrid(skin Arctic Horizon 2-KODI 21.3)[/COLOR]</name>
+         <version>4.0</version>
          <kodi>K21</kodi>
-         <size>273MB</size>
-         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Arctic.Horizon.2-KODI.21.2.v.3.zip</url>
-         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250524_145003_Kodi.jpg</icon>
-         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250524_145003_Kodi.jpg</fanart>
+         <size>272MB</size>
+         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid.skin.Arctic.Horizon.2-KODI.21.3.v.4.zip</url>
+         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260504_004126_Kodi.jpg</icon>
+         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260504_004126_Kodi.jpg</fanart>
          <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
  </build>
 
  <build>
-          <name>[COLOR fff4f4f4]Debrid-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.3)[/COLOR]</name>
-          <version>4.0</version>
+          <name>[COLOR fff4f4f4]Debrid(skin Arctic Zephyr Resurrection-KODI 21.3)[/COLOR]</name>
+          <version>5.0</version>
           <kodi>K21</kodi>
-          <size>100MB</size> 
-          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Arctic.Zephyr.Resurrection-KODI.21.3.v.4.zip</url>
-          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260203_194410_Kodi.jpg</icon>
-          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260203_194410_Kodi.jpg</fanart>
+          <size>156MB</size> 
+          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid.skin.Arctic.Zephyr.Resurrection-KODI.21.3.v.5.zip</url>
+          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_124229_Kodi.jpg</icon>
+          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_124229_Kodi.jpg</fanart>
           <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
  </build>
 
@@ -147,13 +135,13 @@
   </build>
 
   <build>
-          <name>[COLOR fff4f4f4]Debrid-sub.RO(skin Titan Bingie MOD-KODI 21.2)[/COLOR]</name> 
-          <version>6.0</version>
+          <name>[COLOR fff4f4f4]Debrid(skin Titan Bingie MOD-KODI 21.3)[/COLOR]</name> 
+          <version>7.0</version>
           <kodi>K21</kodi>
-          <size>251MB</size>
-          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Titan.Bingie.MOD-KODI.21.2.v.6.zip</url>
-          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250218_114647_Gallery.jpg</icon>
-          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250218_114647_Gallery.jpg</fanart>
+          <size>264MB</size>
+          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid.skin.Titan.Bingie.mod-KODI.21.3.v.7.zip</url>
+          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260504_170805_Kodi.jpg</icon>
+          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260504_170805_Kodi.jpg</fanart>
           <description>[COLOR frc75453]Work with Debrid subscription only[/COLOR]</description>
   </build>
 
@@ -194,20 +182,7 @@
   </build>  
   
   
-  <build> 
-          <name>[COLOR fff4f4f4]Fen light-sub.RO(skin Arctic Fuse 2-KODI 21.2)[/COLOR]</name>     
-          <version>1.0</version> 
-          <kodi>K21</kodi>    
-          <size>219MB</size>
-          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Fen.light-sub.RO.skin.Arctic.Fuse.2-KODI.21.2.zip</url>    
-          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_000606_Kodi.jpg</icon>   
-          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_000606_Kodi.jpg</fanart>   
-          <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description> 
-  </build>     
-     
-     
-     
-     
+    
      
 <build>
               <name>[COLOR fffe9900]---- Just-Free-KODI 21 Builds ----[/COLOR]</name>
