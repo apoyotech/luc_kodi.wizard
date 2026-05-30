@@ -1,3 +1,8 @@
+[B][COLOR ffc75453]30.05.2026[/COLOR][/B]-Version 2.0.39
+-Update build Debrid-sub.RO(skin Estuary MOD v2- KODI 21.3) to v.13 
+-Update build Debrid-sub.RO(skin Arctic Fuse 2 -KODI 21.3) to v.9
+-Update build Just-Free-sub.RO(skin FENtastic -KODI 21.3) to v.3
+-Remove build Fen light AM -sub.RO(skin FENtastic -KODI 21.3)
 [B][COLOR ffc75453]04.05.2026[/COLOR][/B]-Version 2.0.38
 -Update build Debrid(skin Arctic Horizon 2-KODI 21.3) to v.4
 -Update build Debrid(skin Arctic Zephyr Resurrection-KODI 21.3) to v.5
