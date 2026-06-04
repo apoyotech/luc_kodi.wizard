@@ -26,13 +26,13 @@
      
      
 <build>
-  <name>[COLOR fff4f4f4]Debrid(skin AeonNox Silvo mod by luc_kodi-KODI 21.3)[/COLOR]</name>
-  <version>8.0</version>
+  <name>[COLOR fff4f4f4]Debrid-sub.RO(skin AeonNox Silvo luc_mod-KODI 21.3)[/COLOR]</name>
+  <version>9.0</version>
   <kodi>K21</kodi>
-  <size>215MB</size>
-  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid.skin.AeonNox.Silvo-mod.by.luc_kodi-KODI.21.3.v.8.zip</url>
-  <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_005909_Kodi.jpg</icon>
-  <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_005909_Kodi.jpg</fanart>
+  <size>229MB</size>
+  <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.AeonNox.Silvo-luc_mod-KODI.21.3.v.9.zip</url>
+  <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260601_185840_Kodi.jpg</icon>
+  <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260601_185840_Kodi.jpg</fanart>
   <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
  </build>
   
@@ -71,25 +71,25 @@
  </build>
 
  <build>
-          <name>[COLOR fff4f4f4]Debrid(skin Arctic Zephyr Resurrection-KODI 21.3)[/COLOR]</name>
-          <version>5.0</version>
+          <name>[COLOR fff4f4f4]Debrid-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.3)[/COLOR]</name>
+          <version>6.0</version>
           <kodi>K21</kodi>
-          <size>156MB</size> 
-          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid.skin.Arctic.Zephyr.Resurrection-KODI.21.3.v.5.zip</url>
-          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_124229_Kodi.jpg</icon>
-          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260503_124229_Kodi.jpg</fanart>
+          <size>153MB</size> 
+          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Arctic.Zephyr.Resurrection-KODI.21.3.v.6.zip</url>
+          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260601_192607_Kodi.jpg</icon>
+          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260601_192607_Kodi.jpg</fanart>
           <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
  </build>
 
 
 <build>
-         <name>[COLOR fff4f4f4]Debrid-sub.RO(skin AeonNox 5-KODI 21.1)[/COLOR]</name>
+         <name>[COLOR fff4f4f4]Debrid-sub.RO(skin FENtastic-KODI 21.3)[/COLOR]</name>
          <version>1.0</version>
          <kodi>K21</kodi>
-         <size>137MB</size>
-         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid.sub.RO.skin.Aeon.Nox.5-KODI-21.1.zip</url>
-         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_152458_Kodi.jpg</icon>
-         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20241114_152458_Kodi.jpg</fanart>
+         <size>126MB</size>
+         <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.FENtastic-KODI.21.3.v.1.zip</url>
+         <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260604_183017_Kodi.jpg</icon>
+         <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260604_183017_Kodi.jpg</fanart>
          <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
 </build>
 
@@ -128,13 +128,13 @@
 
 
   <build>
-            <name>[COLOR fff4f4f4]Debrid-sub.RO(skin Confluence-KODI 21.2)[/COLOR]</name>
-            <version>2.0</version>
+            <name>[COLOR fff4f4f4]Debrid-sub.RO(skin Confluence-KODI 21.3)[/COLOR]</name>
+            <version>3.0</version>
             <kodi>K21</kodi>
-            <size>73MB</size>
-            <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Confluence-KODI.21.2.v.2.zip</url>
-            <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250509_135839_Kodi.jpg</icon>
-            <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250509_135839_Kodi.jpg</fanart>
+            <size>146MB</size>
+            <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-sub.RO.skin.Confluence-KODI.21.3.v.3.zip</url>
+            <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260604_185151_Kodi.jpg</icon>
+            <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260604_185151_Kodi.jpg</fanart>
             <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
   </build>
 
