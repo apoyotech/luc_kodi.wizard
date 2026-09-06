@@ -1,5 +1,5 @@
 [B][COLOR ffc75453]06.09.2026[/COLOR][/B]-Version 2.0.41
--Update build luc_kodi-sub.RO(skin AeonNox Silvo luc_mod-KOD21.3)to v.3
+-Update build luc_kodi-sub.RO(skin AeonNox Silvo luc_mod-KODI 21.3)to v.3
 -New build Just-Free-sub.RO(skin Nimbus+ KODI 21.3)v.1
 [B][COLOR ffc75453]04.06.2026[/COLOR][/B]-Version 2.0.40
 -Update build Debrid-sub.RO(skin Arctic Zephyr Resurrection-KODI 21.3)to v.6
