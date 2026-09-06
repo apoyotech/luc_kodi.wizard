@@ -14,13 +14,13 @@
 
 
 <build>
-      <name>[COLOR fff4f4f4]Debrid-luc_kodi-sub.RO(skin AeonNox Silvo mod by luc_kodi-KODI 21.3)[/COLOR]</name>     
-      <version>2.0</version>
+      <name>[COLOR fff4f4f4]luc_kodi-sub.RO(skin AeonNox Silvo luc_mod-KODI 21.3)[/COLOR]</name>     
+      <version>3.0</version>
       <kodi>K21</kodi>    
-      <size>211MB</size> 
-      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Debrid-luc_kodi-sub.RO.skin.AeonNox.Silvo.mod.by.luc_kodi-KODI.21.3.v.2.zip</url>     
-      <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250926_003259_Kodi.jpg</icon>
-      <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250926_003259_Kodi.jpg</fanart>
+      <size>193MB</size> 
+      <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/luc_kodi-sub.RO.skin.AeonNox.Silvo-luc_mod-KODI.21.3.v.3.zip</url>     
+      <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260906_011539_Kodi.jpg</icon>
+      <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260906_011539_Kodi.jpg</fanart>
       <description>[COLOR ffc75453]Work with Debrid subscription only[/COLOR]</description>
 </build>
      
@@ -188,13 +188,13 @@
 </build>
 
 <build>
-        <name>[COLOR snow]Just-Free-sub.RO(skin Fentastic-KODI 21.3)[/COLOR]</name>
-        <version>3.0</version>
+        <name>[COLOR snow]Just-Free-sub.RO(skin Nimbus+ KODI 21.3)[/COLOR]</name>
+        <version>1.0</version>
         <kodi>K21</kodi>
-        <size>101MB</size>
-        <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just-Free-sub.RO.skin.FENtastic-KODI.21.3.v.3.zip</url>
-        <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260530_015215_Kodi.jpg</icon>
-        <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260530_015215_Kodi.jpg</fanart>
+        <size>106MB</size>
+        <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/Just-Free-sub.RO.skin.Nimbus+.KODI.21.3.v1.zip</url>
+        <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260821_134204_Kodi.jpg</icon>
+        <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20260821_134204_Kodi.jpg</fanart>
         <description>[COLOR ffc75453]This build no need Debrid subscription[/COLOR]</description>
 </build>
 
